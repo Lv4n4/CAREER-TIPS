@@ -1,6 +1,6 @@
 # CAREER-TIPS
 Benvenuto nel repository delle offerte di lavoro TECH! Qui troverai tutte le posizioni attualmente aperte, per le quali sto supportando la funzione HR aziendale.
-Clicca qui per leggerle 👉 (https://github.com/Lv4n4/CAREER-TIPS/blob/main/job-listings.md)
+Clicca qui per leggerle 👉(https://bit.ly/3W1YPlS)
 
 ## Offerte di Lavoro
 Tutte le offerte di lavoro sono elencate in questo documento. Aggiornerò (spero🤣) regolarmente la lista.
