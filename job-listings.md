@@ -59,8 +59,7 @@ Software company specializzata in soluzioni innovative per infrastrutture API, o
 - Forte background tecnico
 - Capacità di lavorare con metodologie di sviluppo software
 
-**Retribuzione Annuale Lorda (RAL):**  
-€40,000 - €45,000
+RAL:** €40,000 - €45,000
 
 **Modalità di Lavoro:**  
 Ibrido, Full-remote (Pisa, Roma o remoto) 
@@ -80,8 +79,7 @@ Negozio online leader nel settore dell’ottica, dedicato a fornire lenti a cont
 - Esperienza con e-commerce builders (Opencart un plus)
 - Javascript e relativi framework
 
-**Retribuzione Annuale Lorda (RAL):**  
-€25,000 - €40,000
+**RAL:** €25,000 - €40,000
 
 **Modalità di Lavoro:**  
 Ibrido (3 giorni a settimana)
