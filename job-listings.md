@@ -33,9 +33,9 @@ Nice to have:
 
 **Si offre:**
 - **CCNL Commercio**
-- **Formazione:** Budget annuale di 800€ per eventi e formazione tecnica.
-- **Crescita professionale:** Accesso a piattaforme di apprendimento e crescita professionale continua.
-- **Macbook:** Fornito dall’azienda per uso professionale.
+- **Formazione:** budget annuale di 800€ per eventi e formazione tecnica.
+- **Crescita professionale:** accesso a piattaforme di apprendimento e crescita professionale continua.
+- **Macbook:** fornito dall’azienda per uso professionale.
 
 ---
 
