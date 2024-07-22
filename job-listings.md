@@ -9,7 +9,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 🏢 **Azienda:** REDOKUN
 
-🌍 **Modalità di lavoro:** Full remote
+🌍 **Modalità di lavoro:** FULL REMOTE
 
 💰 **RAL:** €50,000 - €60,000 annui
 
