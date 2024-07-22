@@ -23,6 +23,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 **SKILL:**
 - Forte conoscenza tecnica ambito front-end (HTML, CSS, Js, React, Redux, RTK query) e back-end (PHP, Symfony o Laminas/Zend) database (MySql o PostgreSQL)
 - Familiarità con strumenti di CI/CD, Docker e cloud (AWS o Azure)
+- Inglese fluente, perchè lavorerai in un team internazionale
 - Precedenti esperienze in ruoli di leadership tecnica e people management
 - Capacità di comunicazione, gestione dei feedback, team working
 - Abitudine al lavoro da remoto e lavoro async, organizzazione del tempo e dei task
