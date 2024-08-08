@@ -63,8 +63,7 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 
 **TECHNICAL LEAD**
 
-🏢 **Azienda:** REDOKUN
-
+🏢 **Azienda:** REDOKUN (https://redokun.com)
 🌍 **Modalità di lavoro:** FULL REMOTE
 
 💰 **RAL:** €50,000 - €60,000 annui
