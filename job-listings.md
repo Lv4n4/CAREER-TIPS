@@ -96,84 +96,101 @@ Nice to have:
 ---
 
 
-## Full Stack Developer 
-**Luogo:** Lecco  
-**Modalità di lavoro:** Ibrido (1-2 giorni a settimana in smartworking)  
-**RAL:** €27,000 - €35,000  
 
-**Esperienza richiesta:**
-- Almeno 3 anni di esperienza con PHP, MySQL, JavaScript, HTML, CSS, Bootstrap, Git.
-  
-**Competenze apprezzate:**
-- Yii2, Vue.js/React/AngularJS, PWA, Stack LAMP.
-- Laravel/Symfony, MongoDB, GraphQL, Ruby, Python.
-- Disponibilità per trasferte.
+Per **RECROWD**, scaleup, che opera nel settore del crowdfunding immobiliare, cerchiamo un/una **Backend Developer**, un/una **QA** e un/una **Mobile Developer**
 
----
+📍**BACKEND DEVELOPER**
 
-## Vue.js Developer 
-**Luogo:** Roma  
-**Modalità di lavoro:** In presenza  
-**RAL:**
-- Junior: €25,000 - €28,000
-- Middle: €28,000 - €35,000
-- Senior: €35,000 - €40,000
+**COSA TI OFFRIAMO**
 
-**Esperienza richiesta:**
-- Almeno 1 anno di esperienza con Vue.js, integrazione API e servizi backend.
+**CONTRATTO full-time**
+**RAL MAX 37k**
+**MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
+**BUONI PASTO** 7€
+**PREMIO PRODUZIONE** 3k a fine anno
+**HARDWARE A SCELTA**
 
----
 
-## Junior Java Developer 
-**Luogo:** Genova  
-**Modalità di lavoro:** In presenza  
-**RAL:** €22,000 - €30,000  
+**COSA CERCHIAMO**
 
-**Esperienza richiesta:**
-- Almeno 1 anno di esperienza con Java, JavaEE, Hibernate, SQL.
-- Competenze in ottimizzazione di query SQL per PostgreSQL.
+•	3-4 anni di esperienza in sviluppo backend con TypeScript ed Express.js.
+•	Profonda conoscenza di JavaScript e TypeScript.
+•	Esperienza nella progettazione e implementazione di API RESTful.
+•	Familiarità con strumenti di testing come Jest, Supertest e Postman.
+•	Competenze con database sia relazionali che non (es. PostgreSQL, MongoDB).
+•	Esperienza con ORM (es. Prisma, Sequelize).
+•	Abilità nel version control con Git.
+•	Capacità di lavorare in modo indipendente e in team.
 
----
 
- Project Manager IT
- 
-## Project Manager IT
+**DI COSA TI OCCUPERAI**
 
-**Azienda:**  
-Software company specializzata in soluzioni innovative per infrastrutture API, operante nel settore dell'eGovernment in Italia e in Europa.
+•	Sviluppare e ottimizzare applicazioni server-side con TypeScript e Express.js.
+•	Progettare e implementare API RESTful.
+•	Collaborare con vari team per assicurare integrazioni fluide.
+•	Eseguire test di unità e integrazione per mantenere l'alta qualità del software.
+•	Ottimizzare le applicazioni per massimizzare la velocità e la sicurezza.
 
-**Esperienza Richiesta:**  
-5+ anni in gestione di progetti IT, con esperienza specifica nel settore pubblico desiderabile.
 
-**Competenze Chiave:**  
-- Gestione completa di progetti
-- Forte background tecnico
-- Capacità di lavorare con metodologie di sviluppo software
 
-RAL:** €40,000 - €45,000
+📍**QA**
 
-**Modalità di Lavoro:**  
-Ibrido, Full-remote (Pisa, Roma o remoto) 
+**COSA TI OFFRIAMO**
 
----
+**CONTRATTO full-time**
+**RAL MAX 50k**
+**MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
+**BUONI PASTO** 7€
+**PREMIO PRODUZIONE** 3k a fine anno
+**HARDWARE A SCELTA**
 
-## Sviluppatore PHP/Javascript
+**COSA CERCHIAMO**
 
-**Azienda:**  
-Negozio online leader nel settore dell’ottica, dedicato a fornire lenti a contatto e occhiali da sole di qualità.
+•	Esperienza di almeno 3 anni nel ruolo di Quality Assurance Engineer.
+•	Conoscenza approfondita dei processi e delle metodologie di testing.
+•	Capacità di creare piani di test dettagliati e casi di test.
+•	Esperienza nell'automazione dei test, in particolare con Playwright.
+•	Familiarità con gli ambienti di sviluppo Agile.
 
-**Esperienza Richiesta:**  
-2+ anni
 
-**Competenze Chiave:**  
-- Conoscenza di PHP e framework correlati
-- Esperienza con e-commerce builders (Opencart un plus)
-- Javascript e relativi framework
+**DI COSA TI OCCUPERAI**
 
-**RAL:** €25,000 - €40,000
+•	Esecuzione di test funzionali e non funzionali per garantire la qualità di software e applicazioni.
+•	Creazione, implementazione e manutenzione di script di test automatizzati, utilizzando Playwright.
+•	Collaborazione con il team di sviluppo per l'identificazione e la risoluzione di bug.
+•	Partecipazione attiva alle riunioni di pianificazione e revisione del prodotto per definire strategie di testing e migliorare i processi di sviluppo.
 
-**Modalità di Lavoro:**  
-Ibrido (3 giorni a settimana)
 
-**Località:**  
-Roma
+
+📍**MOBILE DEVELOPER**
+
+**COSA TI OFFRIAMO**
+
+**CONTRATTO full-time**
+**RAL MAX 45k**
+**MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
+**BUONI PASTO** 7€
+**PREMIO PRODUZIONE** 3k a fine anno
+**HARDWARE A SCELTA**
+
+
+**COSA CERCHIAMO**
+
+•	Esperienza di almeno 4-5 anni nello sviluppo di applicazioni mobile con React Native.
+•	Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
+•	Comprensione approfondita del ciclo di vita delle applicazioni mobile.
+•	Esperienza con l'integrazione di API RESTful.
+•	Conoscenza delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
+•	Capacità di lavorare sia in modo indipendente che in team.
+
+
+**DI COSA TI OCCUPERAI**
+
+•	Sviluppo e manutenzione di applicazioni mobile utilizzando React Native.
+•	Collaborazione con i team di progettazione, prodotto e backend per lo sviluppo di nuove funzionalità e il miglioramento di quelle esistenti.
+•	Redazione di codice riutilizzabile, testabile e pulito.
+•	Risoluzione di problemi tecnici e debugging di applicazioni esistenti.
+•	Esecuzione di test di unità e integrazione per garantire l'alta qualità del software.
+•	Ottimizzazione delle applicazioni per massime performance e compatibilità su diverse piattaforme.
+
+
