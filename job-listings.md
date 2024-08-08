@@ -8,7 +8,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 **SENIOR SOFTWARE ENGINEER**
 
 
-In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)** per la ricerca di un **SENIOR SOFTWARE ENGINEER**, che lavorerà completamente da remoto, con flessibilità geografica totale!
+In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)** per la ricerca di un/una **SENIOR SOFTWARE ENGINEER**, che lavorerà completamente da remoto, con flessibilità geografica totale!
 
 🔥**COSA TI OFFRIAMO**
 
@@ -27,7 +27,7 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 🔥**COSA CERCHIAMO**
 
 
-° **Esperto di JavaScript e TypeScript:** competenza obbligatoria
+° **Esperto/a di JavaScript e TypeScript:** competenza obbligatoria
 
 ° **Buona conoscenza di Node.js, Deno** o altri principali runtime di JavaScript
 
@@ -54,7 +54,6 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 ° **Sviluppo del front-end per esperienze utente altamente dinamiche,** come caselle di ricerca, answer engine applications e altro
 
 ° **Lavorare alla dashboard di Orama Cloud** per implementare nuove funzionalità
-
 
 ° **Implementazione di Orama su diversi strumenti** (come Docusaurus, Vitepress, Nextra, ecc.)
 
