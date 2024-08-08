@@ -13,7 +13,7 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 🔥**COSA TI OFFRIAMO**
 
 
-**Tipo di contratto:** full remote
+° **Tipo di contratto:** full remote
 
 ° **Retribuzione:** €70-75K RAL + stock options + PTO illimitato
 
