@@ -97,7 +97,7 @@ Nice to have:
 
 
 
-Per **RECROWD**, scaleup, che opera nel settore del crowdfunding immobiliare, cerchiamo un/una **Backend Developer**, un/una **QA** e un/una **Mobile Developer**
+Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del crowdfunding immobiliare, cerchiamo un/una **Backend Developer**, un/una **QA** e un/una **Mobile Developer**
 
 📍**BACKEND DEVELOPER**
 
