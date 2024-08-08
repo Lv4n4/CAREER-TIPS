@@ -115,87 +115,129 @@ Per **RECROWD**, scaleup, che opera nel settore del crowdfunding immobiliare, ce
 
 **HARDWARE A SCELTA**
 
+---
 
 **COSA CERCHIAMO**
 
 •	3-4 anni di esperienza in sviluppo backend con TypeScript ed Express.js.
+
 •	Profonda conoscenza di JavaScript e TypeScript.
+
 •	Esperienza nella progettazione e implementazione di API RESTful.
+
 •	Familiarità con strumenti di testing come Jest, Supertest e Postman.
+
 •	Competenze con database sia relazionali che non (es. PostgreSQL, MongoDB).
+
 •	Esperienza con ORM (es. Prisma, Sequelize).
+
 •	Abilità nel version control con Git.
+
 •	Capacità di lavorare in modo indipendente e in team.
 
 
 **DI COSA TI OCCUPERAI**
 
 •	Sviluppare e ottimizzare applicazioni server-side con TypeScript e Express.js.
+
 •	Progettare e implementare API RESTful.
+
 •	Collaborare con vari team per assicurare integrazioni fluide.
+
 •	Eseguire test di unità e integrazione per mantenere l'alta qualità del software.
+
 •	Ottimizzare le applicazioni per massimizzare la velocità e la sicurezza.
 
+---
 
-
-📍**QA**
+📍**QA** 
 
 **COSA TI OFFRIAMO**
 
 **CONTRATTO full-time**
+
 **RAL MAX 50k**
+
 **MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
+
 **BUONI PASTO** 7€
+
 **PREMIO PRODUZIONE** 3k a fine anno
+
 **HARDWARE A SCELTA**
+
+---
 
 **COSA CERCHIAMO**
 
 •	Esperienza di almeno 3 anni nel ruolo di Quality Assurance Engineer.
+
 •	Conoscenza approfondita dei processi e delle metodologie di testing.
+
 •	Capacità di creare piani di test dettagliati e casi di test.
+
 •	Esperienza nell'automazione dei test, in particolare con Playwright.
+
 •	Familiarità con gli ambienti di sviluppo Agile.
 
 
 **DI COSA TI OCCUPERAI**
 
 •	Esecuzione di test funzionali e non funzionali per garantire la qualità di software e applicazioni.
+
 •	Creazione, implementazione e manutenzione di script di test automatizzati, utilizzando Playwright.
+
 •	Collaborazione con il team di sviluppo per l'identificazione e la risoluzione di bug.
+
 •	Partecipazione attiva alle riunioni di pianificazione e revisione del prodotto per definire strategie di testing e migliorare i processi di sviluppo.
 
-
+---
 
 📍**MOBILE DEVELOPER**
 
 **COSA TI OFFRIAMO**
 
 **CONTRATTO full-time**
+
 **RAL MAX 45k**
+
 **MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
+
 **BUONI PASTO** 7€
+
 **PREMIO PRODUZIONE** 3k a fine anno
+
 **HARDWARE A SCELTA**
 
+---
 
 **COSA CERCHIAMO**
 
 •	Esperienza di almeno 4-5 anni nello sviluppo di applicazioni mobile con React Native.
+
 •	Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
+
 •	Comprensione approfondita del ciclo di vita delle applicazioni mobile.
+
 •	Esperienza con l'integrazione di API RESTful.
+
 •	Conoscenza delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
+
 •	Capacità di lavorare sia in modo indipendente che in team.
 
 
 **DI COSA TI OCCUPERAI**
 
 •	Sviluppo e manutenzione di applicazioni mobile utilizzando React Native.
+
 •	Collaborazione con i team di progettazione, prodotto e backend per lo sviluppo di nuove funzionalità e il miglioramento di quelle esistenti.
+
 •	Redazione di codice riutilizzabile, testabile e pulito.
+
 •	Risoluzione di problemi tecnici e debugging di applicazioni esistenti.
+
 •	Esecuzione di test di unità e integrazione per garantire l'alta qualità del software.
+
 •	Ottimizzazione delle applicazioni per massime performance e compatibilità su diverse piattaforme.
 
-
+---
