@@ -15,47 +15,50 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 
 **Tipo di contratto:** full remote
 
-**Retribuzione:** €70-75K RAL + stock options + PTO illimitato
+° **Retribuzione:** €70-75K RAL + stock options + PTO illimitato
 
-**Orari:** compatibili con qualsiasi fuso orario EU o USA
+° **Orari:** compatibili con qualsiasi fuso orario EU o USA
 
-**Contratto tramite EoR:** solo se fuori dagli USA, assunzione tramite Deel
+° **Contratto tramite EoR:** solo se fuori dagli USA, assunzione tramite Deel
 
-**Accettiamo anche:** P.IVA 100K 
+° **Accettiamo anche:** P.IVA 100K 
+
 
 🔥**Cosa cerchiamo**
 
 
-**Esperto di JavaScript e TypeScript:** competenza obbligatoria
+° **Esperto di JavaScript e TypeScript:** competenza obbligatoria
 
-**Buona conoscenza di Node.js, Deno** o altri principali runtime di JavaScript
+° **Buona conoscenza di Node.js, Deno** o altri principali runtime di JavaScript
 
-**Buona conoscenza dei framework reattivi** come React, Vue e Stencil
+° **Buona conoscenza dei framework reattivi** come React, Vue e Stencil
 
-**Essere sufficientemente fluente in inglese** per svolgere tutte le attività lavorative in modo efficace, senza barriere linguistiche significative. 
+° **Essere sufficientemente fluente in inglese** per svolgere tutte le attività lavorative in modo efficace, senza barriere linguistiche significative. 
 
 
 🔥**Nice to have**:
 
 
-**Esperienza con WebAssembly:** costituisce un forte vantaggio
+° **Esperienza con WebAssembly:** costituisce un forte vantaggio
 
-**Esperienza con Cloudflare Workers e/o AWS/GCP:** costituisce un forte vantaggio
+° **Esperienza con Cloudflare Workers e/o AWS/GCP:** costituisce un forte vantaggio
 
-**Conoscenza dei sistemi RAG:** costituisce un forte vantaggio
+° **Conoscenza dei sistemi RAG:** costituisce un forte vantaggio
 
-**Conoscenza di LLMs, tecniche di ML e intelligenza artificiale in generale:** costituisce un forte vantaggio
+° **Conoscenza di LLMs, tecniche di ML e intelligenza artificiale in generale:** costituisce un forte vantaggio
 
 
 🔥**Di cosa ti occuperai:**
 
 
-**Sviluppo del front-end per esperienze utente altamente dinamiche,** come caselle di ricerca, answer engine applications e altro
+° **Sviluppo del front-end per esperienze utente altamente dinamiche,** come caselle di ricerca, answer engine applications e altro
 
-**Lavorare alla dashboard di Orama Cloud** per implementare nuove funzionalità
+° **Lavorare alla dashboard di Orama Cloud** per implementare nuove funzionalità
 
 
-**Implementazione di Orama su diversi strumenti** (come Docusaurus, Vitepress, Nextra, ecc.)
+° **Implementazione di Orama su diversi strumenti** (come Docusaurus, Vitepress, Nextra, ecc.)
+
+
 
 ---
 
