@@ -104,10 +104,15 @@ Per **RECROWD**, scaleup, che opera nel settore del crowdfunding immobiliare, ce
 **COSA TI OFFRIAMO**
 
 **CONTRATTO full-time**
+
 **RAL MAX 37k**
+
 **MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
+
 **BUONI PASTO** 7€
+
 **PREMIO PRODUZIONE** 3k a fine anno
+
 **HARDWARE A SCELTA**
 
 
