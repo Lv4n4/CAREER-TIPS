@@ -149,7 +149,7 @@ Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del c
 
 ---
 
-📍**QA** 
+📍**QA** **POSIZIONE CHIUSA** 
 
 **COSA TI OFFRIAMO**
 
