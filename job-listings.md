@@ -380,7 +380,7 @@ Esperienza richiesta: junior (1-2 anni di esperienza), mid (3-5 anni di esperien
 
 ---
 
-PER **GIOTTO SRL** CRCO UN/UNA **FULL STACK DEVELOPER**
+PER **GIOTTO SRL** (https://www.giotto.srl) CERCO UN/UNA **FULL STACK DEVELOPER**
 
 💰RAL: €25.000-27.000
 
