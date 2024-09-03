@@ -247,9 +247,10 @@ Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del c
 Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**, **NODE.JS DEVELOPER**
 
  **REACT DEVELOPER**
+ 
 💰 RAL: €40.000-50.000
 
-📍 Modalità: full-remote - sede di appoggio Udine
+🌍 Modalità: full-remote - sede di appoggio Udine
 
 💼 Ruolo: sviluppo frontend con React, Redux, e Tailwind. Esperienza con Material UI e transizione verso nuove UI come Radix e Framer Motion
 
@@ -264,9 +265,10 @@ Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**,
 ---
 
 **NODE.JS DEVELOPER**
-🌍 Modalità di lavoro: full-remote - sede di appoggio Udine
 
 💰 RAL: €40.000-50.000 
+
+🌍 Modalità: full-remote - sede di appoggio Udine
 
 👨‍💻 Ruolo: backend Developer esperto in Node.js, con competenze avanzate in TypeScript e ORM come TypeORM. Fantastico se hai capacità di implementazione di unit test e test end-to-end. Nice to have conoscenza di Kubernetes e Ansible
 
@@ -287,9 +289,10 @@ Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**,
 Per **2OPEN** (https://www.2open.it/) CERCO un/una **FULL STACK DEVELOPER PHP** e **FRONT-END DEVELOPER**
 
 **FULL STACK DEVELOPER PHP**
-📍 Modalità: presenza con opzioni di smart working, sede Roma
 
 💰 RAL: €25.000-50.000
+
+🌍📍Modalità: presenza con opzioni di smart working, sede Roma
 
 💼 Ruolo: sviluppo full-stack in PHP, utilizzando Laravel, Vue.js e gestione database con MySQL/PostgreSQL
 
@@ -304,9 +307,10 @@ Per **2OPEN** (https://www.2open.it/) CERCO un/una **FULL STACK DEVELOPER PHP** 
 ---
 
 **FRONT-END DEVELOPER**
+
 💰 RAL: €28.000-40.000
 
-📍 Modalità: presenza
+📍 Modalità: presenza - ROMA
 
 💼 Ruolo: sviluppo di interfacce utente dinamiche e responsive utilizzando Vue.js, ottimizzazione delle prestazioni e integrazione di API
 
@@ -318,8 +322,6 @@ Per **2OPEN** (https://www.2open.it/) CERCO un/una **FULL STACK DEVELOPER PHP** 
 
 ⏳ Preavviso: 30-60 giorni
 
-📍Sede: Roma
-
 
 
 ---
@@ -327,9 +329,10 @@ Per **2OPEN** (https://www.2open.it/) CERCO un/una **FULL STACK DEVELOPER PHP** 
 Per **SINTIA LAB SRL (https://sintialab.it/) CERCO  un/una **JAVA DEVELOPER** e un/una **AI ENGINEER**
 
 **JAVA DEVELOPER**
+
 💰RAL: €22.000-30.000
 
-📍 Modalità: presenza – full time - GENOVA
+📍Modalità: presenza – full time - GENOVA
 
 💼 Ruolo: sviluppo e manutenzione di applicazioni Java, gestione di Hibernate, ottimizzazione di query SQL
 
@@ -344,9 +347,10 @@ Per **SINTIA LAB SRL (https://sintialab.it/) CERCO  un/una **JAVA DEVELOPER** e 
 ---
 
 **AI ENGINEER**
+
 💰RAL: €25.000-32.000
 
-📍 Modalità: ibrido – full time - GENOVA
+🌍📍Modalità: ibrido – full time - GENOVA
 
 💼 Ruolo: partecipazione alla progettazione, sviluppo e implementazione di algoritmi avanzati di machine learning e deep learning, con focus su computer vision e reti neurali convoluzionali
 
@@ -366,7 +370,7 @@ Per **AMEVISTA** (https://www.amevista.com/it) CERCO UN/UNA **FULL STACK DEVELOP
 
 💰RAL: €25.000-40.000
 
-📍 Modalità di Lavoro: ibrido, con sede a Roma
+🌍📍Modalità: ibrido, con sede a Roma
 
 👨‍💻 Ruolo: Sviluppo Full-stack con competenze in PHP, HTML5, CSS3, JavaScript, jQuery, AJAX, Bootstrap, e database MySQL/Postgres. Conoscenze in React, Node.js, e piattaforme eCommerce come OpenCart sono un plus
 
