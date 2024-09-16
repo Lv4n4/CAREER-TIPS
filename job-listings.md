@@ -5,6 +5,48 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 ---
 
+
+**PYTHON DEVELOPER**
+
+Per Quaternion (https://quaternion.it/) è alla ricerca di un/una PYTHON DEVELOPER. L'azienda si occupa di modelli predittivi nel settore Finance & Energy, sviluppando soluzioni che supportano i mercati finanziari e i broker energetici. Se hai passione per questi settori e un solido background tecnico, potresti essere il candidato ideale.
+
+**COSA TI OFFRIAMO**
+
+
+**RAL** €45K-50K
+
+**MODALITÀ DI LAVORO** full remote con un approccio task-driven (async)
+
+**TIPO DI CONTRATTO** tempo indeterminato CCNL Metalmeccanico
+
+**FORMAZIONE** accesso a formazione continua tramite Udemy
+
+**BENEFIT** premi produzione significativi e possibilità di partecipare come Lecturer in eventi accademici.
+
+
+**COSA CERCHIAMO**
+
+
+Laurea in Informatica, Ingegneria o settori STEM, o esperienza equivalente
+
+Esperienza con Python e familiarità con Django, Flask, NumPy, Pandas, scikit-learn
+
+Conoscenze di AWS e RDS, più eventuali conoscenze di Rust e sviluppo web (JavaScript/TypeScript/React).
+
+
+**DI COSA TI OCCUPERAI**
+
+
+Contributo attivo allo sviluppo e alla manutenzione di modelli AI nei prodotti finanziari ed energetici
+
+Collaborazione con il team tecnico per migliorare i sistemi di produzione esistenti e sviluppare nuove soluzioni
+    
+Impegno costante nell'apprendimento delle tecnologie emergenti e partecipazione a revisioni di codice e al co-design di nuove features.
+
+
+
+---
+
 **SENIOR SOFTWARE ENGINEER**
 
 
@@ -15,7 +57,7 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 
 ° **Tipo di contratto:** full remote
 
-° **Retribuzione:** €70-75K RAL + stock options + PTO illimitato
+° **RAL:** €70-75K RAL + stock options + PTO illimitato
 
 ° **Orari:** compatibili con qualsiasi fuso orario EU o USA
 
