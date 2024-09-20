@@ -296,7 +296,7 @@ Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**,
 
 💼 Ruolo: sviluppo frontend con React, Redux, e Tailwind. Esperienza con Material UI e transizione verso nuove UI come Radix e Framer Motion
 
-👨‍💻 Hard skills: esperienza con React e TypeScript
+👨‍💻 Hard skills: esperienza con React e TypeScript - 6/9 anni di esperienza
 
 📈 Progetto: contribuire a un ERP cloud-based
 
@@ -312,7 +312,7 @@ Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**,
 
 🌍 Modalità: full-remote - sede di appoggio Udine
 
-👨‍💻 Ruolo: backend Developer esperto in Node.js, con competenze avanzate in TypeScript e ORM come TypeORM. Fantastico se hai capacità di implementazione di unit test e test end-to-end. Nice to have conoscenza di Kubernetes e Ansible
+👨‍💻 Ruolo: backend Developer esperto in Node.js, con competenze avanzate in TypeScript e ORM come TypeORM. Fantastico se hai capacità di implementazione di unit test e test end-to-end. Nice to have conoscenza di Kubernetes e Ansible - 6/9 anni di esperienza
 
 👨‍💻 Hard skills: esperienza con Node e TypeScript
 
