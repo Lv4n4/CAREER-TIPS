@@ -146,7 +146,7 @@ Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del c
 
 **CONTRATTO full-time**
 
-**RAL MAX 37k**
+**RAL MAX 40/42k**
 
 **MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
 
