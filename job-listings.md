@@ -8,7 +8,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 **PYTHON DEVELOPER**
 
-In Forllop.tech stiamo supportando **QUATERNION** (https://quaternion.it/) NElla ricerca di un/una PYTHON DEVELOPER. L'azienda si occupa di modelli predittivi nel settore Finance & Energy, sviluppando soluzioni che supportano i mercati finanziari e i broker energetici. Se hai passione per questi settori e un solido background tecnico, potresti essere il candidato ideale.
+In Forloop.tech stiamo supportando **QUATERNION** (https://quaternion.it/) nella ricerca di un/una PYTHON DEVELOPER. L'azienda si occupa di modelli predittivi nel settore Finance & Energy, sviluppando soluzioni che supportano i mercati finanziari e i broker energetici. Se hai passione per questi settori e un solido background tecnico, potresti essere il candidato ideale.
 
 **COSA TI OFFRIAMO**
 
