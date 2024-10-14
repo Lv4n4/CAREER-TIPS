@@ -49,6 +49,7 @@ Impegno costante nell'apprendimento delle tecnologie emergenti e partecipazione 
 
 **SENIOR SOFTWARE ENGINEER**
 
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 
 In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)** per la ricerca di un/una **SENIOR SOFTWARE ENGINEER**, che lavorerà completamente da remoto, con flessibilità geografica totale!
 
@@ -236,6 +237,7 @@ Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del c
 ---
 
 **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
+
 📍**MOBILE DEVELOPER**
 
 **COSA TI OFFRIAMO**
@@ -350,6 +352,7 @@ Per **2OPEN** (https://www.2open.it/) CERCO un/una **FULL STACK DEVELOPER PHP** 
 ---
 
 **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
+
 **FRONT-END DEVELOPER**
 
 💰 RAL: €28.000-40.000
