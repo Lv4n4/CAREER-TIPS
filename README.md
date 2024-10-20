@@ -1,5 +1,5 @@
 # CAREER-TIPS
-Benvenuto nel repository delle offerte di lavoro TECH! Qui troverai tutte le posizioni attualmente aperte, per le quali sto supportando la funzione HR aziendale.
+Benvenuto nel repository delle offerte di lavoro nel TECH! Qui troverai tutte le posizioni attualmente aperte, per le quali sto supportando la funzione HR aziendale.
 Clicca qui per leggerle 👉(https://bit.ly/3W1YPlS)
 
 ## Offerte di Lavoro
