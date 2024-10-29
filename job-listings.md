@@ -6,6 +6,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
+
 **PYTHON DEVELOPER**
 
 In Forloop.tech stiamo supportando **QUATERNION** (https://quaternion.it/) nella ricerca di un/una PYTHON DEVELOPER. L'azienda si occupa di modelli predittivi nel settore Finance & Energy, sviluppando soluzioni che supportano i mercati finanziari e i broker energetici. Se hai passione per questi settori e un solido background tecnico, potresti essere il candidato ideale.
@@ -46,10 +47,10 @@ Impegno costante nell'apprendimento delle tecnologie emergenti e partecipazione 
 
 
 ---
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 
 **SENIOR SOFTWARE ENGINEER**
 
-**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 
 In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)** per la ricerca di un/una **SENIOR SOFTWARE ENGINEER**, che lavorerà completamente da remoto, con flessibilità geografica totale!
 
@@ -104,6 +105,7 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 
 ---
 **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
+
 **TECHNICAL LEAD**
 
 🏢 **Azienda:** REDOKUN (https://redokun.com)
@@ -139,8 +141,9 @@ Nice to have:
 
 ---
 
-Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del crowdfunding immobiliare, cerchiamo un/una **Backend Developer**, un/una **QA** e un/una **Mobile Developer**
 **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
+
+Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del crowdfunding immobiliare, cerchiamo un/una **Backend Developer**, un/una **QA** e un/una **Mobile Developer**
 📍**BACKEND DEVELOPER**
 
 **COSA TI OFFRIAMO**
