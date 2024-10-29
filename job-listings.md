@@ -5,7 +5,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 ---
 
-
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 **PYTHON DEVELOPER**
 
 In Forloop.tech stiamo supportando **QUATERNION** (https://quaternion.it/) nella ricerca di un/una PYTHON DEVELOPER. L'azienda si occupa di modelli predittivi nel settore Finance & Energy, sviluppando soluzioni che supportano i mercati finanziari e i broker energetici. Se hai passione per questi settori e un solido background tecnico, potresti essere il candidato ideale.
@@ -103,7 +103,7 @@ In **Forloop.tech** stiamo supportando **Orama** 👉 **(https://askorama.ai/)**
 
 
 ---
-
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 **TECHNICAL LEAD**
 
 🏢 **Azienda:** REDOKUN (https://redokun.com)
@@ -140,7 +140,7 @@ Nice to have:
 ---
 
 Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del crowdfunding immobiliare, cerchiamo un/una **Backend Developer**, un/una **QA** e un/una **Mobile Developer**
-
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 📍**BACKEND DEVELOPER**
 
 **COSA TI OFFRIAMO**
