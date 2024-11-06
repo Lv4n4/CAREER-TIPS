@@ -30,14 +30,14 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 - Esperienza con SPA developing
 - Esperienza con Design System, Storybook e Design Token
 
-  **NICE TO HAVE**
+**NICE TO HAVE**
 
-  esperienza con Redux + RTK Query e framework PHP come Symfony
+Esperienza con Redux + RTK Query e framework PHP come Symfony
 
 
 ---
 
-  **DI COSA TI OCCUPERAI**
+**DI COSA TI OCCUPERAI**
 
 - Sviluppo frontend utilizzando React
 - supportare il team di prodotto nella progettazione e sviluppo di nuove funzionalità
