@@ -5,6 +5,50 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 
 ---
+**FRONTEND DEVELOPER** per azienda di prodotto SaaS, utilizzato da migliaia di utenti in tutto il mondo
+
+**COSA TI OFFRIAMO**
+
+**RAL TRA 38-43K** 
+
+**CONTRATTO full-time** 
+
+**MODALITÀ DI LAVORO** lavoro asincrono e 100% da remoto con la possibilità di lavorare da dove vuoi in Europa, orari flessibili.
+
+**MACBOOK + DISPALY**
+
+**BUDGET FORMAZIONE ANNUALE** 800 EUR
+
+---
+
+**COSA CERCHIAMO**
+
+- Inglese fluente almeno B2, il team è internazionale e si alvoro con clienti internazionali
+- almeno 4 anni di esperienza nello sviluppo frontend, competenze solide nei moderni framework e strumenti **JavaScript**
+- Esperienza con **React**
+- Esperienza con state management libraries
+- Esperienza con SPA developing
+- Esperienza con Design System, Storybook e Design Token
+
+  **NICE TO HAVE**
+
+  esperienza con Redux + RTK Query e framework PHP come Symfony
+
+
+  ---
+
+  **DI COSA TI OCCUPERAI**
+
+- Sviluppo frontend utilizzando React
+- supportare il team di prodotto nella progettazione e sviluppo di nuove funzionalità
+- supportare il team di pre-vendita e assistenza per la risoluzione di problemi
+- implementazione e correzione di bug
+- collaborare ai progetti in corso con partner esterni
+
+
+
+
+---
 
 **PEOPLE AND CULTURE SPECIALIST** per **DEVELER** (https://www.develer.com/), azienda del gruppo Comelz che svolge attività di progettazione, produzione
 elettronica e sviluppo software per il mondo industriale
@@ -37,7 +81,6 @@ Studi in materie umanistiche e/o Master in ambito HR
 
 - Conoscenza degli strumenti per la ricerca del personale
 - Gestione di processi di onboarding
-- Employer branding
 - Organizzazione di corsi di formazione (finanziata e non finanziata)
 - Gestione di piani di welfare
 - Supporto amministrativo per il personale
@@ -50,6 +93,23 @@ Studi in materie umanistiche e/o Master in ambito HR
 - Attitudine al miglioramento continuo
 - Partecipazione attiva ad eventi di settore e fiere del lavoro
 - Organizzazione di eventi di socializzazione interna e team building
+
+
+**DI COSA TI OCCUPERAI**
+
+- Recruiting (creazione annunci; ricerca attiva; gestione fornitori esterni)
+- Employer Branding (partecipazione ad eventi di settore e fiere del lavoro; iniziative di
+branding in collaborazione con il team Marketing)
+- Onboarding (gestione del processo di onboarding dei nuovi ingressi)
+- Formazione (organizzazione di corsi di formazione finanziata e non, su temi di soft
+skills e lingue)
+- Feedback e percorsi di crescita (gestione dei feedback interni, in collaborazione con i
+team leader)
+- Gestione di piani di Welfare
+- Organizzazione di team building ed eventi socializzazione interna
+- Supporto all’Amministrazione del personale
+
+
 
 
 
