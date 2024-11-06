@@ -292,6 +292,8 @@ Per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del c
 
 ---
 
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
+
 Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**, **NODE.JS DEVELOPER**
 
  **REACT DEVELOPER**
@@ -311,6 +313,8 @@ Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**,
 ⏳ Preavviso: 30-60 giorni
 
 ---
+
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 
 **NODE.JS DEVELOPER**
 
@@ -333,6 +337,9 @@ Per **GE.SVI** (https://www.gtngroup.it/), cerchiamo un/una **REACT DEVELOPER**,
 ---
 
 **DI SEGUITO TROVERAI POSIZIONI ANCHE PER PROFILI JUNIOR**
+
+
+**POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
 
 Per **2OPEN** (https://www.2open.it/) CERCO un/una **FULL STACK DEVELOPER PHP** e **FRONT-END DEVELOPER**
 
@@ -376,46 +383,6 @@ Per **2OPEN** (https://www.2open.it/) CERCO un/una **FULL STACK DEVELOPER PHP** 
 
 ---
 
-Per **SINTIA LAB SRL (https://sintialab.it/) CERCO  un/una **JAVA DEVELOPER** e un/una **AI ENGINEER**
-
-**JAVA DEVELOPER**
-
-💰RAL: €22.000-30.000
-
-📍Modalità: presenza – full time - GENOVA
-
-💼 Ruolo: sviluppo e manutenzione di applicazioni Java, gestione di Hibernate, ottimizzazione di query SQL
-
-👨‍💻 Hard skills: Java, JavaEE, Hibernate, Wildfly, Maven, PostgreSQL
-
-📅 Esperienza richiesta: Junior (1-2 anni), Mid (3-5 anni)
-
-📈 Progetto: lavoro su progetti di integrazione dell'intelligenza artificiale nei processi produttivi, focalizzandoti sulla digitalizzazione e l'automazione in ambienti manifatturieri e tecnologici
-
-⏳ Preavviso: 30-60 giorni
-
----
-
-**AI ENGINEER**
-
-💰RAL: €25.000-32.000
-
-🌍📍Modalità: ibrido – full time - GENOVA
-
-💼 Ruolo: partecipazione alla progettazione, sviluppo e implementazione di algoritmi avanzati di machine learning e deep learning, con focus su computer vision e reti neurali convoluzionali
-
-👨‍💻 Hard skills: laurea in Matematica, Informatica, SMID, Ingegneria o Fisica. Competenze in statistica inferenziale, machine learning classico e deep learning. Esperienza con computer vision e modelli di linguaggio di grandi dimensioni
-
-📅 Esperienza richiesta: Junior (1-2 anni)
-
-📈 Progetto: lavorerai in progetti rivolti alla trasformazione digitale del settore manifatturiero attraverso l'intelligenza artificiale, inclusi sistemi di computer vision e reti neurali per migliorare l'efficienza e l'innovazione.
-
-🚗 Disponibilità a Trasferte/Trasferimenti: richiesta disponibilità a raggiungere la sede di Genova o a trasferirsi
-
-
-
----
-
 Per **AMEVISTA** (https://www.amevista.com/it) CERCO UN/UNA **FULL STACK DEVELOPER**
 
 💰RAL: €25.000-40.000
@@ -433,17 +400,5 @@ Esperienza richiesta: junior (1-2 anni di esperienza), mid (3-5 anni di esperien
 
 ---
 
-PER **GIOTTO SRL** (https://www.giotto.srl) CERCO UN/UNA **FULL STACK DEVELOPER**
 
-💰RAL: €25.000-27.000
-
-📍 Modalità: presenza – sede a Lucca
-
-💼 Ruolo: sviluppo, test e manutenzione di soluzioni per il settore giochi e scommesse
-
-👨‍💻 Hard skills: esperienza con tecnologie come PHP, Java, MySQL, Laravel, Angular, e Vue.js
-
-📈 Progetto: lavoro su progetti interni legati al betting e alla digitalizzazione
-
-⏳ Preavviso: meno di 30 giorni
 
