@@ -6,6 +6,57 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 ---
 
+**PEOPLE AND CULTURE SPECIALIST** per **DEVELER** (https://www.develer.com/), azienda del gruppo Comelz che svolge attività di progettazione, produzione
+elettronica e sviluppo software per il mondo industriale
+
+**COSA TI OFFRIAMO**
+
+**CONTRATTO full-time**
+
+**RAL TRA 30-40K** 
+
+**BANCA ORE** puoi gestire il tuo tempo con maggiore libertà: puoi uscire prima e rimanere qualche ora in più un altro giorno.
+
+**BUDGET FORMAZIONE ANNUALE** sia per eventi esterni che interni all'azienda. Ti verrà un rimborso per le spese e il tempo necessario per partecipare.
+
+**MENSA GRATUITA** presso ristorante locale
+
+**PIANO WELFARE** su piattafroma aziendale
+
+**MODALITÀ DI LAVORO** ibrido flessibile, 2 giorni a settimana in sede, su Firenze. Ufficio accessibile 24 ore su 24 tutto l’anno: decidi tu, insieme al tuo team, gli orari di lavoro che più si adattano alla tua vita.
+
+---
+
+**COSA CERCHIAMO**
+
+Almeno 4 anni di esperienza come HR Generalista in aziende di medie o grandi dimensioni, o provenienza dal mondo IT
+
+Studi in materie umanistiche e/o Master in ambito HR
+
+**HARD SKILLS**
+
+- Conoscenza degli strumenti per la ricerca del personale
+- Gestione di processi di onboarding
+- Employer branding
+- Organizzazione di corsi di formazione (finanziata e non finanziata)
+- Gestione di piani di welfare
+- Supporto amministrativo per il personale
+
+**SOFT SKILLS**
+
+- Capacità di interazione con interlocutori a tutti i livelli
+- Capacità di mediazione
+- Approccio proattivo e autonomo
+- Attitudine al miglioramento continuo
+- Partecipazione attiva ad eventi di settore e fiere del lavoro
+- Organizzazione di eventi di socializzazione interna e team building
+
+
+
+
+
+
+---
 **TECH LEAD MOBILE DEVELOPER** per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del crowdfunding immobiliare
 
 **COSA TI OFFRIAMO**
