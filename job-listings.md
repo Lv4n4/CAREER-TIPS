@@ -35,7 +35,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
   esperienza con Redux + RTK Query e framework PHP come Symfony
 
 
-  ---
+---
 
   **DI COSA TI OCCUPERAI**
 
