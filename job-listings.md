@@ -3,6 +3,57 @@
 Benvenuti nello spazio delle opportunità attuali, per le quali sto supportando la funzione HR aziendale. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
 Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
 
+
+---
+
+**TECH LEAD MOBILE DEVELOPER** per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del crowdfunding immobiliare
+
+**COSA TI OFFRIAMO**
+
+**CONTRATTO full-time**
+
+**RAL MAX 60k**
+
+**MODALITÀ DI LAVORO** ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
+
+**BUONI PASTO** 7€
+
+**PREMIO PRODUZIONE** 3k a fine anno
+
+**HARDWARE A SCELTA**
+
+---
+
+**COSA CERCHIAMO**
+
+•	Esperienza di almeno 4-5 anni nello sviluppo di applicazioni mobile con React Native.
+
+•	Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
+
+•	Comprensione approfondita del ciclo di vita delle applicazioni mobile.
+
+•	Esperienza con l'integrazione di API RESTful.
+
+•	Conoscenza delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
+
+•	Capacità di lavorare sia in modo indipendente che in team.
+
+
+**DI COSA TI OCCUPERAI**
+
+•	Sviluppare e mantenere applicazioni mobile utilizzando React Native.
+
+•	Risolvere problemi tecnici e debug di applicazioni esistenti.
+
+•	Effettuare test di unità e integrazione per garantire l'alta qualità del software.
+
+•	Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
+
+
+
+
+
+
 ---
 
 **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** **POSIZIONE CHIUSA** 
