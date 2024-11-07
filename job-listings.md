@@ -5,7 +5,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 
 ---
-**FRONTEND DEVELOPER** per azienda di prodotto SaaS, utilizzato da migliaia di utenti in tutto il mondo
+**FRONTEND DEVELOPER** per scaleup di prodotto 
 
 **COSA TI OFFRIAMO**
 
