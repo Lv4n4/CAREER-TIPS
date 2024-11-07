@@ -15,7 +15,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 **MODALITÀ DI LAVORO** lavoro asincrono e 100% da remoto con la possibilità di lavorare da dove vuoi in Europa, orari flessibili.
 
-**MACBOOK + DISPALY**
+**MACBOOK + DISPLAY**
 
 **BUDGET FORMAZIONE ANNUALE** 800 EUR
 
