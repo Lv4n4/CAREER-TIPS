@@ -23,7 +23,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 **COSA CERCHIAMO**
 
-- Inglese fluente almeno B2, il team è internazionale e si alvoro con clienti internazionali
+- Inglese fluente almeno B2, il team è internazionale e si lavora con clienti internazionali
 - almeno 4 anni di esperienza nello sviluppo frontend, competenze solide nei moderni framework e strumenti **JavaScript**
 - Esperienza con **React**
 - Esperienza con state management libraries
