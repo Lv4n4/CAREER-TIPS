@@ -4,6 +4,42 @@ Benvenuti nello spazio delle opportunità attuali, per le quali sto supportando 
 Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
 
 
+
+Tech Lead Mobile Developer Cliente: Recrowd
+
+https://recrowd.com
+
+https://www.linkedin.com/company/recrowditalia/
+
+E' previsto un ibrido MOLTO rilassato 1-2 volte a settimana su Milano o, in alternativa, 1-2 giorni ogni due settimane per chi è fuori Milano. Benefit: premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, hardware a scelta.
+
+Tech Lead Mobile Developer, fino a 60k di RAL
+
+DI COSA TI OCCUPERAI:
+
+    La figura del Tech Lead sarà responsabile della supervisione dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native
+    Collaborerà strettamente con i team di progettazione e con il CTO, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti
+    Avrà inoltre la direzione tecnica dei progetti, fungendo da ponte fra management ed engineering
+    Condurre regolari code review e regolari 1:1 con il team per garantire comunicazione, feedback e crescita
+
+SEI LA PERSONA GIUSTA SE HAI:
+
+    Almeno 4-5 anni di esperienza comprovata nello sviluppo di applicazioni mobile utilizzando React Native.
+    Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
+    Conoscenza approfondita del ciclo di vita delle applicazioni mobile.
+    Esperienza con l'integrazione di API RESTful.
+    Comprensione delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
+    Capacità di lavorare sia in modo indipendente che all'interno di un team.
+
+RESPONSABILITÀ:
+
+    Sviluppare e mantenere applicazioni mobile utilizzando React Native.
+    Risolvere problemi tecnici e debug di applicazioni esistenti.
+    Effettuare test di unità e integrazione per garantire l'alta qualità del software.
+    Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
+
+
+
 ---
 **FRONTEND DEVELOPER** per scaleup di prodotto 
 
