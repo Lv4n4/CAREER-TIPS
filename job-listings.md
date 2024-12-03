@@ -28,7 +28,7 @@ Senior Backend Developer per il team tecnico. Collaborerà strettamente con il C
 - **Supporto tecnico:** interazione diretta con i clienti per supporto tecnico e personalizzazioni.
 - **Evangelizzazione e formazione:** promuovere best practice di sviluppo e supportare la crescita del team attraverso formazione e innovazione.
 
-** COMPETENZE RICHIESTE** 
+**COMPETENZE RICHIESTE** 
 
 - Esperienza avanzata in PHP (Laravel) e conoscenza di Node.js.
 - Forte competenza in database relazionali (es. MySQL).
