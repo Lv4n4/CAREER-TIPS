@@ -18,31 +18,31 @@ Impegno: collaborazione a tempo pieno
 
 **COSA FARAI:**
 
-Aiutare a progettare, implementare e gestire microservizi intensivi di dati da zero.
-Costruire e mantenere pipeline di elaborazione dei dati che estraggono ed elaborano dati da molteplici blockchain compatibili EVM.
-Sviluppare e mantenere servizi backend e API sicuri e scalabili.
-Progettare un sistema di streaming in tempo reale capace di ascoltare e reagire a dati ed eventi blockchain in tempo reale.
-Progettare e implementare strategie per il recupero rapido dei dati con una latenza inferiore ai 100 ms da sistemi di archiviazione che gestiscono miliardi di record.
-Implementare tecniche di compressione per ottimizzare l'uso dello spazio di archiviazione nei sistemi di dati blockchain.
-Contribuire al miglioramento delle basi di dati NoSQL personalizzate, adattate alle specifiche esigenze della nostra infrastruttura di dati blockchain.
+- Aiutare a progettare, implementare e gestire microservizi intensivi di dati da zero.
+- Costruire e mantenere pipeline di elaborazione dei dati che estraggono ed elaborano dati da molteplici blockchain compatibili EVM.
+- Sviluppare e mantenere servizi backend e API sicuri e scalabili.
+- Progettare un sistema di streaming in tempo reale capace di ascoltare e reagire a dati ed eventi blockchain in tempo reale.
+- Progettare e implementare strategie per il recupero rapido dei dati con una latenza inferiore ai 100 ms da sistemi di archiviazione che gestiscono miliardi di record.
+- Implementare tecniche di compressione per ottimizzare l'uso dello spazio di archiviazione nei sistemi di dati blockchain.
+- Contribuire al miglioramento delle basi di dati NoSQL personalizzate, adattate alle specifiche esigenze della nostra infrastruttura di dati blockchain.
 
 **CHI CERCHIAMO:**
 
-Avere almeno 4 anni di esperienza professionale nello sviluppo software, nella costruzione e manutenzione di applicazioni intensive di dati.
-Possedere una solida comprensione dei principi e delle migliori pratiche di Ingegneria dei Dati e Backend.
-Avere esperienza nella gestione e operatività di carichi di lavoro in produzione.
-Avere una forte esperienza con database relazionali e non relazionali.
-Essere appassionati di blockchain e tecnologie decentralizzate.
-Avere ottime competenze di programmazione, preferibilmente in TypeScript.
-Competenze in Nodejs, MongoDB, Clickhouse, AWS Lamba, SQS/SNS.
-Dimostrare un approccio proattivo alla risoluzione dei problemi e possesso delle mansioni.
-Essere in grado di parlare italiano, poiché la maggior parte del team parla italiano.
+- Avere almeno 4 anni di esperienza professionale nello sviluppo software, nella costruzione e manutenzione di applicazioni intensive di dati.
+- Possedere una solida comprensione dei principi e delle migliori pratiche di Ingegneria dei Dati e Backend.
+- Avere esperienza nella gestione e operatività di carichi di lavoro in produzione.
+- Avere una forte esperienza con database relazionali e non relazionali.
+- Essere appassionati di blockchain e tecnologie decentralizzate.
+- Avere ottime competenze di programmazione, preferibilmente in TypeScript.
+- Competenze in Nodejs, MongoDB, Clickhouse, AWS Lamba, SQS/SNS.
+- Dimostrare un approccio proattivo alla risoluzione dei problemi e possesso delle mansioni.
+- Essere in grado di parlare italiano, poiché la maggior parte del team parla italiano.
 
 **NICE TO HAVE**
 
-Precedenti esperienze in startup.
-Precedenti esperienze nel settore prodotti.
-Esperienza con database di grandi dimensioni.
+- Precedenti esperienze in startup.
+- Precedenti esperienze nel settore prodotti.
+- Esperienza con database di grandi dimensioni.
 
 
 
