@@ -3,9 +3,10 @@
 Benvenuti nello spazio delle opportunità attuali, per le quali sto supportando la funzione HR aziendale. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
 Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
 
+
 ---
 
-**Azienda in ambito blockchain cerca:** **Backend Data Engineer**
+**AZIENDA IN AMBITO BLOCKCHAIN cerca:** **BACKEND DATA ENGINEER**
 
 Il ruolo prevede la promozione della missione di ridefinire il modo in cui gli utenti interagiscono con i dati blockchain tramite esploratori e API. 
 L'azienda è focalizzata sulle soluzioni all’avanguardia nello spazio Web3 e impegnata ad affrontare le sfide uniche nella costruzione di servizi di dati blockchain robusti ed efficienti.
@@ -15,7 +16,7 @@ Tipo di collaborazione: freelance
 Impegno: collaborazione a tempo pieno
 
 
-**Cosa farai:**
+**COSA FARAI:**
 
 Aiutare a progettare, implementare e gestire microservizi intensivi di dati da zero.
 Costruire e mantenere pipeline di elaborazione dei dati che estraggono ed elaborano dati da molteplici blockchain compatibili EVM.
@@ -25,7 +26,7 @@ Progettare e implementare strategie per il recupero rapido dei dati con una late
 Implementare tecniche di compressione per ottimizzare l'uso dello spazio di archiviazione nei sistemi di dati blockchain.
 Contribuire al miglioramento delle basi di dati NoSQL personalizzate, adattate alle specifiche esigenze della nostra infrastruttura di dati blockchain.
 
-**Chi cerchiamo:**
+**CHI CERCHIAMO:**
 
 Avere almeno 4 anni di esperienza professionale nello sviluppo software, nella costruzione e manutenzione di applicazioni intensive di dati.
 Possedere una solida comprensione dei principi e delle migliori pratiche di Ingegneria dei Dati e Backend.
