@@ -17,7 +17,8 @@ https://www.jointly.pro/
 https://www.linkedin.com/company/jointly-il-welfare-condiviso/
 
 **RUOLO** 
-Senior Backend Developer per unirsi al team tecnico. Collaborerà strettamente con il CTO e altri team per garantire la sicurezza, l'efficienza e la qualità del codice.
+
+Senior Backend Developer per il team tecnico. Collaborerà strettamente con il CTO e altri team per garantire la sicurezza, l'efficienza e la qualità del codice.
 
 **RESPONSABILITÀ**
 
