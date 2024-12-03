@@ -96,7 +96,7 @@ Impegno: collaborazione a tempo pieno
 
 
 
-**RECROWD** cerca: **Tech Lead Mobile Developer**
+**RECROWD** cerca: **TECH LEAD MOBILE DEVELOPER**
 
 https://recrowd.com
 
