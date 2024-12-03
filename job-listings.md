@@ -3,7 +3,7 @@
 Benvenuti nello spazio delle opportunità attuali, per le quali sto supportando la funzione HR aziendale. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
 Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
 
-
+---
 
 **Azienda in ambito blockchain cerca:** **Backend Data Engineer**
 
@@ -45,9 +45,7 @@ Esperienza con database di grandi dimensioni.
 
 
 
-
-
-
+---
 
 
 
