@@ -6,6 +6,48 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 ---
 
+
+
+**JOINTLY** cerca: **SENIOR BACKEND DEVELOPER**
+
+**JOINTLY** è è una Società Benefit e B Corp che offre servizi innovativi nel settore del Welfare e del Wellbeing. Con più di 900 clienti, il nostro obiettivo è migliorare la qualità della vita delle persone e il benessere organizzativo. Aiutiamo le famiglie a trovare soluzioni di cura e assistenza veloci, affidabili ed economiche per i loro cari.
+
+https://www.jointly.pro/
+
+https://www.linkedin.com/company/jointly-il-welfare-condiviso/
+
+**RUOLO** 
+Senior Backend Developer per unirsi al team tecnico. Collaborerà strettamente con il CTO e altri team per garantire la sicurezza, l'efficienza e la qualità del codice.
+
+**RESPONSABILITÀ**
+
+- **Sviluppo e manutenzione del codice:** programmare in PHP (Laravel) e NodeJS, implementare funzionalità, risolvere bug e problemi di sicurezza.
+- **Gestione database:** ottimizzazione e strutturazione dei DB, decisioni strategiche su data sharding e architettura dati per la scalabilità.
+- **Ricerca e implementazione soluzioni:** collaborazione con i team di Prodotto e Infrastructure per definire e implementare le migliori soluzioni tecniche.
+- **Supporto tecnico:** interazione diretta con i clienti per supporto tecnico e personalizzazioni.
+- **Evangelizzazione e formazione:** promuovere best practice di sviluppo e supportare la crescita del team attraverso formazione e innovazione.
+
+** COMPETENZE RICHIESTE** 
+
+- Esperienza avanzata in PHP (Laravel) e conoscenza di Node.js.
+- Forte competenza in database relazionali (es. MySQL).
+- Capacità di analisi e scelta di strutture dati ottimali.
+- Competenza nella risoluzione dei problemi di sicurezza del codice.
+- Capacità di comunicazione e negoziazione eccellenti.
+
+**COSA OFFRIAMO**
+
+- RAL da 45-50k
+- Contratto a tempo indeterminato
+- Lavoro completamente remoto
+- Pacchetto Welfare aziendale tra 1350 e 1650 €/anno
+- Buddy per l'onboarding
+- Sessioni gratuite di counseling
+- Servizi dedicati alla genitorialità (babysitting, ripetizioni, counseling genitoriale, ecc.)
+
+
+---
+
 **AZIENDA IN AMBITO BLOCKCHAIN cerca:** **BACKEND DATA ENGINEER**
 
 Il ruolo prevede la promozione della missione di ridefinire il modo in cui gli utenti interagiscono con i dati blockchain tramite esploratori e API. 
