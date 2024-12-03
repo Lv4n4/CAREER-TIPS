@@ -54,11 +54,11 @@ Senior Backend Developer per il team tecnico. Collaborerà strettamente con il C
 Il ruolo prevede la promozione della missione di ridefinire il modo in cui gli utenti interagiscono con i dati blockchain tramite esploratori e API. 
 L'azienda è focalizzata sulle soluzioni all’avanguardia nello spazio Web3 e impegnata ad affrontare le sfide uniche nella costruzione di servizi di dati blockchain robusti ed efficienti.
 
-Ral: 85K
+Compenso: 85K di ingaggio annuale
 
 Posizione: full remote
 
-Tipo di collaborazione: freelance
+Tipo di collaborazione: freelance a partita iva
 
 Impegno: collaborazione a tempo pieno
 
