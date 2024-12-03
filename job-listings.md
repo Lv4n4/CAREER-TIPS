@@ -12,11 +12,14 @@ Il ruolo prevede la promozione della missione di ridefinire il modo in cui gli u
 L'azienda è focalizzata sulle soluzioni all’avanguardia nello spazio Web3 e impegnata ad affrontare le sfide uniche nella costruzione di servizi di dati blockchain robusti ed efficienti.
 
 Posizione: full remote
+
 Tipo di collaborazione: freelance
+
 Impegno: collaborazione a tempo pieno
 
 
-**COSA FARAI:**
+
+**COSA FARAI**
 
 - Aiutare a progettare, implementare e gestire microservizi intensivi di dati da zero.
 - Costruire e mantenere pipeline di elaborazione dei dati che estraggono ed elaborano dati da molteplici blockchain compatibili EVM.
@@ -26,7 +29,7 @@ Impegno: collaborazione a tempo pieno
 - Implementare tecniche di compressione per ottimizzare l'uso dello spazio di archiviazione nei sistemi di dati blockchain.
 - Contribuire al miglioramento delle basi di dati NoSQL personalizzate, adattate alle specifiche esigenze della nostra infrastruttura di dati blockchain.
 
-**CHI CERCHIAMO:**
+**CHI CERCHIAMO**
 
 - Avere almeno 4 anni di esperienza professionale nello sviluppo software, nella costruzione e manutenzione di applicazioni intensive di dati.
 - Possedere una solida comprensione dei principi e delle migliori pratiche di Ingegneria dei Dati e Backend.
