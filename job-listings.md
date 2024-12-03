@@ -10,7 +10,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 **JOINTLY** cerca: **SENIOR BACKEND DEVELOPER**
 
-**JOINTLY** è è una Società Benefit e B Corp che offre servizi innovativi nel settore del Welfare e del Wellbeing. Con più di 900 clienti, il nostro obiettivo è migliorare la qualità della vita delle persone e il benessere organizzativo. Aiutiamo le famiglie a trovare soluzioni di cura e assistenza veloci, affidabili ed economiche per i loro cari.
+**JOINTLY** è una Società Benefit e B Corp che offre servizi innovativi nel settore del Welfare e del Wellbeing. Con più di 900 clienti, il nostro obiettivo è migliorare la qualità della vita delle persone e il benessere organizzativo. Aiutiamo le famiglie a trovare soluzioni di cura e assistenza veloci, affidabili ed economiche per i loro cari.
 
 https://www.jointly.pro/
 
