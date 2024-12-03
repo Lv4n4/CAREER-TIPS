@@ -174,3 +174,10 @@ Esperienza con Redux + RTK Query e framework PHP come Symfony
 ---
 
 
+🏆 **RICERCHE CHIUSE** 🏆
+
+- Develer: people and culture specialist
+- Quaternion: python developer
+- Orama: senior software engineer
+- Redokun: tech lead
+- Recrowd: back-end developer
