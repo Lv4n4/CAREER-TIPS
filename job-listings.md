@@ -96,38 +96,42 @@ Impegno: collaborazione a tempo pieno
 
 
 
-**Tech Lead Mobile Developer Cliente: Recrowd**
+**RECROWD** cerca: **Tech Lead Mobile Developer**
 
 https://recrowd.com
 
 https://www.linkedin.com/company/recrowditalia/
 
-E' previsto un ibrido MOLTO rilassato 1-2 volte a settimana su Milano o, in alternativa, 1-2 giorni ogni due settimane per chi è fuori Milano. Benefit: premio di produzione di 2-3k annui, buoni pasto da 7€/giorno, hardware a scelta.
+**COSA OFFRIAMO**
 
-Tech Lead Mobile Developer, fino a 60k di RAL
+- lavoro ibrido MOLTO rilassato 1-2 volte a settimana su Milano o, in alternativa, 1-2 giorni ogni due settimane per chi è fuori Milano
+- Benefit: premio di produzione di 2-3k annui
+- Buoni pasto da 7€/giorno
+- Hardware a scelta.
+- RAL fino a 60k 
 
-DI COSA TI OCCUPERAI:
+**DI COSA TI OCCUPERAI**
 
 La figura del Tech Lead sarà responsabile della supervisione dello sviluppo e della manutenzione delle applicazioni mobile utilizzando React Native
 Collaborerà strettamente con i team di progettazione e con il CTO, prodotto e backend per creare nuove funzionalità e migliorare quelle esistenti
 Avrà inoltre la direzione tecnica dei progetti, fungendo da ponte fra management ed engineering
 Condurre regolari code review e regolari 1:1 con il team per garantire comunicazione, feedback e crescita
 
-SEI LA PERSONA GIUSTA SE HAI:
+**SEI LA PERSONA GIUSTA SE HAI**
 
-Almeno 4-5 anni di esperienza comprovata nello sviluppo di applicazioni mobile utilizzando React Native.
-Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
-Conoscenza approfondita del ciclo di vita delle applicazioni mobile.
-Esperienza con l'integrazione di API RESTful.
-Comprensione delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
-Capacità di lavorare sia in modo indipendente che all'interno di un team.
+- Almeno 4-5 anni di esperienza comprovata nello sviluppo di applicazioni mobile utilizzando React Native.
+- Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
+- Conoscenza approfondita del ciclo di vita delle applicazioni mobile.
+- Esperienza con l'integrazione di API RESTful.
+- Comprensione delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
+- Capacità di lavorare sia in modo indipendente che all'interno di un team.
 
-RESPONSABILITÀ:
+**RESPONSABILITÀ**
 
-Sviluppare e mantenere applicazioni mobile utilizzando React Native.
-Risolvere problemi tecnici e debug di applicazioni esistenti.
-Effettuare test di unità e integrazione per garantire l'alta qualità del software.
-Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
+- Sviluppare e mantenere applicazioni mobile utilizzando React Native.
+- Risolvere problemi tecnici e debug di applicazioni esistenti.
+- Effettuare test di unità e integrazione per garantire l'alta qualità del software.
+- Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
 
 
 
@@ -168,49 +172,5 @@ Esperienza con Redux + RTK Query e framework PHP come Symfony
 
 
 ---
-
-
-**TECH LEAD MOBILE DEVELOPER** per **RECROWD**,(https://www.recrowd.com/), scaleup, che opera nel settore del crowdfunding immobiliare
-
-**COSA TI OFFRIAMO**
-
-- Contratto full-time
-- RAL MAX 60k
-- MODALITÀ DI LAVORO ibrido MOLTO rilassato 1-2 volte/settimana su Milano, oppure 1/2 volte ogni 2 settimane se si risiede fuori Milano
-- BUONI PASTO 7€
-- PREMIO PRODUZIONE 3k a fine anno
-- HARDWARE A SCELTA
-
----
-
-**COSA CERCHIAMO**
-
-•	Esperienza di almeno 4-5 anni nello sviluppo di applicazioni mobile con React Native.
-
-•	Solida conoscenza di JavaScript e dei framework di sviluppo front-end.
-
-•	Comprensione approfondita del ciclo di vita delle applicazioni mobile.
-
-•	Esperienza con l'integrazione di API RESTful.
-
-•	Conoscenza delle migliori pratiche di sviluppo mobile, inclusi design responsive, UI/UX e accessibilità.
-
-•	Capacità di lavorare sia in modo indipendente che in team.
-
-
-**DI COSA TI OCCUPERAI**
-
-•	Sviluppare e mantenere applicazioni mobile utilizzando React Native.
-
-•	Risolvere problemi tecnici e debug di applicazioni esistenti.
-
-•	Effettuare test di unità e integrazione per garantire l'alta qualità del software.
-
-•	Assicurarsi che le applicazioni siano ottimizzate per le migliori performance e compatibilità su diverse piattaforme.
-
-
-
-
-
 
 
