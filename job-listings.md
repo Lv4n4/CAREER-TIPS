@@ -42,6 +42,10 @@ Collaborerai con il nostro team per progettare, sviluppare e mantenere software 
 
 - Assunzione come dipendente con RAL fino a 50k o collaboratore con compenso di 35k per un periodo iniziale di 6 mesi (negoziabile).
 - Full remote, con possibilità di occasionali incontri in sede per sessioni di brainstorming e aggiornamento.
+- Disponibilità a viaggiare.
+
+
+
 
 
 
