@@ -1,4 +1,5 @@
-# Offerte di Lavoro
+
+Offerte di Lavoro
 
 Benvenuti nello spazio delle opportunità attuali, per le quali sto supportando la funzione HR aziendale. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
 Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
@@ -6,6 +7,45 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 ---
 
+
+
+**SPACEARTH TECHNOLOGY** cerca: **SOLUTION ARCHITECT**
+
+
+SpacEarth Technology è una ex spin-off dell'Istituto Nazionale di Geofisica e Vulcanologia ed è costituita da un team di esperti in ingegneria, fisica e geologia dedicati a sviluppare soluzioni innovative per i settori aerospaziale, marittimo e ambientale, in collaborazione con prestigiose organizzazioni e università.
+
+https://www.spacearth.net/
+
+**RUOLO**
+
+Collaborerai con il nostro team per progettare, sviluppare e mantenere software avanzati e infrastrutture scalabili.
+
+
+
+**RESPONSABILITÀ**
+
+- Progettare e mantenere infrastrutture software scalabili su sistemi PAAS.
+- Sviluppare microservizi utilizzando Python/GO.
+- Integrazione di sistemi e collaborazione con fornitori di servizi IT.
+- Redazione di documentazione tecnica dettagliata.
+
+**REQUISITI**
+
+- Laurea in informatica o ingegneria informatica, o formazione equivalente in ambito STEM.
+- Esperienza con sistemi PAAS, preferibilmente AWS.
+- Conoscenza delle soluzioni DevOps e Cloud Native, come Docker e Kubernetes.
+- Competenze di sviluppo in Python/GO.
+- Ottima padronanza dell'inglese.
+
+
+**COSA OFFRIAMO**
+
+- Assunzione come dipendente con RAL fino a 50k o collaboratore con compenso di 35k per un periodo iniziale di 6 mesi (negoziabile).
+- Full remote, con possibilità di occasionali incontri in sede per sessioni di brainstorming e aggiornamento.
+
+
+
+---
 
 
 **JOINTLY** cerca: **SENIOR BACKEND DEVELOPER**
