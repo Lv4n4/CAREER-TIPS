@@ -8,50 +8,6 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
-
-**SPACEARTH TECHNOLOGY** cerca: **SOLUTION ARCHITECT**
-
-
-SpacEarth Technology è una ex spin-off dell'Istituto Nazionale di Geofisica e Vulcanologia ed è costituita da un team di esperti in ingegneria, fisica e geologia dedicati a sviluppare soluzioni innovative per i settori aerospaziale, marittimo e ambientale, in collaborazione con prestigiose organizzazioni e università.
-
-https://www.spacearth.net/
-
-**RUOLO**
-
-Collaborerai con il nostro team per progettare, sviluppare e mantenere software avanzati e infrastrutture scalabili.
-
-
-
-**RESPONSABILITÀ**
-
-- Progettare e mantenere infrastrutture software scalabili su sistemi PAAS.
-- Sviluppare microservizi utilizzando Python/GO.
-- Integrazione di sistemi e collaborazione con fornitori di servizi IT.
-- Redazione di documentazione tecnica dettagliata.
-
-**REQUISITI**
-
-- Laurea in informatica o ingegneria informatica, o formazione equivalente in ambito STEM.
-- Esperienza con sistemi PAAS, preferibilmente AWS.
-- Conoscenza delle soluzioni DevOps e Cloud Native, come Docker e Kubernetes.
-- Competenze di sviluppo in Python/GO.
-- Ottima padronanza dell'inglese.
-
-
-**COSA OFFRIAMO**
-
-- Assunzione come dipendente con RAL fino a 50k o collaborazione con compenso di 35k per un periodo iniziale di 6 mesi (negoziabile).
-- Full remote, con possibilità di occasionali incontri in sede per sessioni di brainstorming e aggiornamento.
-- Disponibilità a viaggiare.
-
-
-
-
-
-
----
-
-
 **JOINTLY** cerca: **SENIOR BACKEND DEVELOPER**
 
 **JOINTLY** è una Società Benefit e B Corp che offre servizi innovativi nel settore del Welfare e del Wellbeing. Con più di 900 clienti, il nostro obiettivo è migliorare la qualità della vita delle persone e il benessere organizzativo. Aiutiamo le famiglie a trovare soluzioni di cura e assistenza veloci, affidabili ed economiche per i loro cari.
@@ -222,6 +178,8 @@ Esperienza con Redux + RTK Query e framework PHP come Symfony
 
 🏆 **RICERCHE CHIUSE** 🏆
 
+- SpacEarth Technology: Solution Architect
+- Recrowd: Tech Lead
 - Develer: people and culture specialist
 - Quaternion: python developer
 - Orama: senior software engineer
