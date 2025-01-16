@@ -8,6 +8,47 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
+**LEXROOM** CERCA: **JUNIOR SOFTWARE ENGINEER**
+
+**LEXROOM** è la startup che sta innovando il mondo degli studi legali e dei tribunali, con un'app che permette di fare ricerche legali alla velocità delal luce e non solo!
+
+https://www.lexroom.ai/#cos-e-lexroom-ai
+
+https://www.linkedin.com/company/lex-room/posts/?feedView=all
+
+**RUOLO**
+
+Junior Software Engineer, che lavorerà direttamente col CTO, su alcune delle sfide più complesse nell'implementazione dell'IA Generativa.
+
+**RESPONSABILITÀ**
+
+•	Progetterai, svilupperai e manterrai web scraper utilizzando Python, Scrapy, Selenium e altre tecnologie pertinenti.
+•	Collaborerai con il team per identificare i requisiti, fornire soluzioni tecniche e sviluppare strumenti interni.
+•	Sarai una delle prime assunzioni: cerchiamo qualcuno con valori allineati ai nostri. Sei qualcuno che vuole crescere, partecipare all’espansione dell'azienda e essere un esempio per i nuovi assunti.
+
+**REQUISITI RICHIESTI**
+
+•	Laurea in Informatica, Scienza dell'Informazione o campo affine.
+•	Da 0 a 2 anni di esperienza come Sviluppatore Software o ruolo simile.
+•	Competenza in Python.
+•	Eccellenti capacità di risoluzione problemi e attenzione ai dettagli.
+•	Buone capacità interpersonali e comunicative.
+•	Autonomia e capacità di lavorare sia in modo indipendente che in team.
+
+**NICE TO HAVE**
+
+•	Esperienza con ML o NLP.
+•	Conoscenza delle piattaforme cloud (ad es., Google Cloud Platform).
+
+**COSA OFFRIAMO**
+
+•	RAL da €30.000 a €35.000 in base alla tua esperienza.
+•	Pacchetto di stock options significativo 💰.
+•	Lavoro ibrido 2 giorni a settimana in sede
+
+---
+
+
 **JOINTLY** cerca: **SENIOR BACKEND DEVELOPER**
 
 **JOINTLY** è una Società Benefit e B Corp che offre servizi innovativi nel settore del Welfare e del Wellbeing. Con più di 900 clienti, il nostro obiettivo è migliorare la qualità della vita delle persone e il benessere organizzativo. Aiutiamo le famiglie a trovare soluzioni di cura e assistenza veloci, affidabili ed economiche per i loro cari.
