@@ -85,7 +85,7 @@ Junior Software Engineer, che lavorerà direttamente col CTO, su alcune delle sf
 
 - RAL da €30.000 a €35.000 in base alla tua esperienza.
 - Pacchetto di stock options significativo 💰.
-- Lavoro ibrido 2 giorni a settimana in sede
+- Lavoro ibrido 2 giorni a settimana in sede a Milano.
 
 ---
 
