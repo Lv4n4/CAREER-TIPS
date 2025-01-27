@@ -83,7 +83,8 @@ Junior Software Engineer, che lavorerà direttamente col CTO, su alcune delle sf
 
 **COSA OFFRIAMO**
 
-- RAL da €30.000 a €35.000 in base alla tua esperienza.
+- RAL da €30.000 a €35.000 in base alla tua esperienza
+- Contratto a tempo indeterminato CCNL Metalmeccanico
 - Pacchetto di stock options significativo 💰.
 - Lavoro ibrido 2 giorni a settimana in sede a Milano.
 
@@ -121,7 +122,7 @@ Senior Backend Developer per il team tecnico. Collaborerà strettamente con il C
 **COSA OFFRIAMO**
 
 - RAL da 45-50k
-- Contratto a tempo indeterminato
+- Contratto a tempo indeterminato CCNL Commercio
 - Lavoro completamente remoto
 - Pacchetto Welfare aziendale tra 1350 e 1650 €/anno
 - Buddy per l'onboarding
