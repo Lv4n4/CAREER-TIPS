@@ -86,7 +86,7 @@ Come Data Scientist, lavorerai allo sviluppo di modelli di machine learning e st
 - Esperienza nell'implementazione di modelli di machine learning in ambienti di produzione realistici.
 - Familiarità con Rust, C++ o altri linguaggi di programmazione di basso livello.
 
-  **COSA OFFRIAMO**
+**COSA OFFRIAMO**
 
 - Assunzione a tempo indeterminato CCNL METALMECCANICO
 - Lavoro completamente da remoto, con incontri periodici di team a Milano
