@@ -8,6 +8,96 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
+**INTELLA** CERCA: **ML ENGINEER**
+
+https://www.intella.tech/
+
+https://www.linkedin.com/company/intellatech/
+
+**RUOLO**
+
+Come Ingegnere di Machine Learning, aiuterai a portare i modelli di machine learning del nostro team di data science in produzione, ottimizzandoli per scala ed efficienza. Sarai responsabile della performance e dell'affidabilità dei modelli in un ambiente di produzione, cercando continuamente nuove soluzioni e approcci per migliorare la nostra infrastruttura e le nostre pratiche. Con uno sguardo al futuro, avrai anche un ruolo chiave nell'espansione della nostra infrastruttura per accogliere più clienti e satelliti.
+
+**RESPONSABILITÀ**
+
+- Distribuire, monitorare e mantenere i modelli di machine learning in produzione, garantendone la performance e la scalabilità.
+-	Collaborare con il team di data science per affinare e ottimizzare i modelli per gli ambienti di produzione.
+-	Proporre proattivamente e implementare nuovi strumenti, migliori pratiche e approcci per potenziare la nostra infrastruttura di machine learning.
+-	Gestire e scalare la nostra infrastruttura cloud per supportare un numero crescente di clienti e satelliti.
+-	Mantenerti aggiornato sugli ultimi sviluppi in machine learning e AI, contribuendo a progetti open source e iniziative comunitarie.
+
+**REQUISITI RICHIESTI**
+
+-	Solida esperienza in Python e familiarità con le reti neurali profonde e i metodi di machine learning classici.
+-	Conoscenza delle librerie Python per la gestione dei dati, il machine learning e i sistemi di gestione dei database.
+-	Esperienza comprovata nel distribuire e mantenere modelli di machine learning in ambienti di produzione con esempi di progetti e strumenti che hai sviluppato.
+-	Esperienza con infrastrutture cloud e sistemi scalabili (esperienza con Kubernetes è un plus).
+-	Passione per l'AI e il machine learning, con un impegno verso l'apprendimento continuo e il miglioramento.
+-	Contributi a progetti open source e coinvolgimento nella comunità AI/ML sono molto apprezzati.
+-	Eccellenti capacità di problem-solving, unitamente alla capacità di lavorare in modo indipendente e collaborativo in un ambiente remoto.
+
+**COSA OFFRIAMO**
+
+- Assunzione a tempo indeterminato CCNL METALMECCANICO
+- Lavoro completamente da remoto, con incontri periodici di team a Milano
+- Orari flessibili con meccanismo di valutazione OKR
+- RAL 50-60K
+- Computer e attrezzature aziendali
+- Ritiri aziendali e attività di team building
+
+
+---
+
+
+**INTELLA** CERCA: **DATA SCIENTIST**
+
+https://www.intella.tech/
+
+https://www.linkedin.com/company/intellatech/
+
+**RUOLO**
+
+
+Come Data Scientist, lavorerai allo sviluppo di modelli di machine learning e statistici per dati di telemetria e satellitari. Sperimenterai nuovi approcci, affinerai soluzioni esistenti e costruirai librerie per algoritmi avanzati. Collaborando strettamente con ingegneri del machine learning e data engineer, ti assicurerai che i modelli siano efficacemente implementati e scalati per la produzione.
+
+**RESPONSABILITÀ**
+
+- Sviluppare modelli di machine learning e statistici per dati satellitari e di telemetria.
+- Identificare e proporre algoritmi e soluzioni innovative per problemi del mondo reale.
+- Ottimizzare, mantenere e perfezionare modelli e metodologie esistenti.
+- Sperimentare nuove tecniche e costruire librerie per lo sviluppo di algoritmi.
+- Collaborare con il team per implementare e scalare modelli in ambienti di produzione con dati del mondo reale.
+- Mantenere aggiornamento sugli ultimi sviluppi nel campo del machine learning e dell'IA, contribuendo a progetti open source e iniziative comunitarie.
+
+**REQUISITI RICHIESTI**
+
+- Solida esperienza in Python e familiarità con le reti neurali profonde e i metodi classici di machine learning (Pytorch, Tensorflow, Jax).
+-	Conoscenza delle librerie Python per la gestione dei dati, il machine learning e i sistemi di gestione dei database.
+-	Comprovata esperienza nell'implementazione e manutenzione di modelli di machine learning o modelli statistici e matematici in ambienti di produzione con esempi di progetti e
+  strumenti sviluppati.
+- Esperienza documentata attraverso esperimenti o progetti visibili su piattaforme come GitHub, Kaggle, GitLab, oppure attraverso esempi proprietari che possono essere condivisi
+  durante il colloquio.
+- Passione per l'IA e il machine learning, con un impegno per l'apprendimento e il miglioramento continui.
+- Eccellenti capacità di problem solving, insieme alla capacità di lavorare in modo indipendente e collaborativo in un contesto remoto.
+
+**NICE TO HAVE**
+
+- Comprensione dell'industria aerospaziale e delle operazioni satellitari.
+- Esperienza nell'implementazione di modelli di machine learning in ambienti di produzione realistici.
+- Familiarità con Rust, C++ o altri linguaggi di programmazione di basso livello.
+
+  **COSA OFFRIAMO**
+
+- Assunzione a tempo indeterminato CCNL METALMECCANICO
+- Lavoro completamente da remoto, con incontri periodici di team a Milano
+- Orari flessibili con meccanismo di valutazione OKR.
+- RAL 50-60K
+- Computer e attrezzature aziendali
+- Ritiri aziendali e attività di team building
+
+
+  
+
 
 **RECROWD** CERCA: **JUNIOR PROJECT MANAGER**
 
