@@ -1,7 +1,7 @@
 
 Offerte di Lavoro
 
-Benvenuti nello spazio delle opportunità di lavoro attuali, per le quali in **Welyk** stiamo dando cuore, anima, fegato e polmoni. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
+Benvenuta/o 🖖 nello spazio delle opportunità di lavoro attuali, per le quali in **Welyk** ci stiamo mettendo 🫀 🫁 🔥. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
 Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
 
 
@@ -96,7 +96,7 @@ Come Data Scientist, lavorerai allo sviluppo di modelli di machine learning e st
 - Ritiri aziendali e attività di team building
 
 
-  
+---  
 
 
 **RECROWD** CERCA: **JUNIOR PROJECT MANAGER**
@@ -136,7 +136,8 @@ Junior Project Manager con forte orientamento al coordinamento e alla gestione o
 - Lavoro ibrido ( 3 sede, 2 a casa)
 - RAL 30-32K
 
-  ---
+
+---
   
 
 **LEXROOM** CERCA: **JUNIOR SOFTWARE ENGINEER**
@@ -181,6 +182,8 @@ Junior Software Engineer, che lavorerà direttamente col CTO, su alcune delle sf
 
 ---
 
+
+**OSCAR ZONE** ✌🏼
 
 🏆 **RICERCHE CHIUSE IN WELYK** 🏆
 
