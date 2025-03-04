@@ -8,6 +8,48 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
+**RECROWD** CERCA: **FULL STACK DEVELOPER**
+
+https://www.recrowd.com
+
+https://www.linkedin.com/company/recrowditalia/
+
+**RUOLO**
+
+FULL STACK DEVELOPER con esperienza in React.js, Next.js e Node.js
+
+**RESPONSABILITÀ**
+
+- Sviluppare e mantenere interfacce web utilizzando React.js, Next.js
+- Creare e mantenere REST API
+- Integrare API e servizi di terze parti.
+- Partecipare alle revisioni del codice e fornire feedback costruttivo.
+- Risolvere problemi, eseguire il debug e correggere eventuali difetti del software.
+
+**REQUISITI RICHIESTI** 
+
+- Esperienza di almeno 3 anni nello sviluppo full-stack.
+- Padronanza di JavaScript, TypeScript ed ES6+.
+- Forte esperienza in React.js e Next.js per lo sviluppo frontend.
+- Esperienza nello sviluppo di API Rest con Node.js ed Express.js.
+- Conoscenza di database come PostgreSQL, o MySQL.
+- Familiarità con librerie di grafica MUI/Shadcn
+- Competenza nei sistemi di controllo versione come Git.
+- Comprensione delle pipeline CI/CD e delle pratiche DevOps
+
+**COSA OFFRIAMO**
+
+- Assunzione a tempo indeterminato CCNL COMMERCIO
+- RAL 45K
+- Lavoro ibrido 2+3 Milano (ibrido molto rilassato senza giorni fissi/predefiniti in sede. Per chi vive a Milano/zone limitrofe la richiesta è di uno/due giorni AL MASSIMO in sede a settimana. Per chi, invece, vive fuori Milano la richiesta è di 3-4 giorni AL MESE in sede (quindi all'incirca 1-2 giorni in presenza ogni due settimane, con spese di trasferta a carico dell'azienda).
+- Premio produzione di 2-3K annui
+- Buoni pasto da 7€/giorno
+- Hardware a scelta
+  
+
+---
+
+
 **INTELLA** CERCA: **ML ENGINEER**
 
 https://www.intella.tech/
