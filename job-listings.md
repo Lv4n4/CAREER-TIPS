@@ -141,47 +141,6 @@ Come Data Scientist, lavorerai allo sviluppo di modelli di machine learning e st
 ---  
 
 
-**RECROWD** CERCA: **JUNIOR PROJECT MANAGER**
-
-**RECROWD** è la piattaforma di lending crowdfunding che permette a tutti di investire nel mercato immobiliare.
-
-https://www.recrowd.com/
-
-https://www.linkedin.com/company/recrowditalia/posts/?feedView=all
-
-**RUOLO**
-
-Junior Project Manager con forte orientamento al coordinamento e alla gestione operativa. La risorsa sarà responsabile di facilitare la comunicazione tra il team IT e gli altri dipartimenti aziendali, assicurandosi che le attività siano pianificate, eseguite e verificate correttamente nei tempi previsti.
-
-**RESPONSABILITÀ**
-
-- Coordinamento interfunzionale: fungere da ponte tra il team IT e gli altri reparti aziendali (Marketing, Progetti, CS, ecc.) per assicurare un allineamento chiaro sulle priorità e sugli obiettivi progettuali.
-- Pianificazione e assegnazione delle attività: suddividere il lavoro all'interno del team IT, assegnando compiti in base alle competenze e alle scadenze.
-- Monitoraggio e verifica delle attività: garantire che le attività siano eseguite secondo gli standard di qualità definiti e nei tempi stabiliti, fornendo aggiornamenti periodici agli stakeholder.
-- Controllo dello stato di avanzamento: tracciare le milestone dei progetti e garantire che i deliverable siano completati in modo soddisfacente, conducendo verifiche finali sulle attività svolte.
-- Supporto operativo ai progetti: collaborare con i team per risolvere problemi tecnici o organizzativi che potrebbero compromettere il raggiungimento degli obiettivi.
-- Documentazione: assicurare che tutte le attività siano ben documentate, includendo roadmap, report di avanzamento e check-list di verifica.
-
-**REQUISITI RICHIESTI**
-
-- Esperienza anche minima in ruoli di project management o coordinamento, preferibilmente in contesti IT o fintech.
-- Conoscenza di base delle metodologie di gestione dei progetti (es. Agile, Scrum, Waterfall).
-- Competenze nell'uso di strumenti di project management (es. Jira, Trello, Asana,Github issues).
-- Eccellenti capacità organizzative e di gestione del tempo.
-- Attenzione ai dettagli e attitudine a verificare che i deliverable rispettino standard di qualità e scadenze.
-- Capacità di comunicare in modo chiaro e di collaborare con team multifunzionali.
-- Conoscenza dei flussi di lavoro IT e delle tecnologie digitali rappresenta un plus
-
-**COSA OFFRIAMO**
-
-- Assunzione a tempo indeterminato CCNL Commercio
-- Lavoro ibrido ( 3 sede, 2 a casa)
-- RAL 30-32K
-
-
----
-  
-
 **LEXROOM** CERCA: **JUNIOR SOFTWARE ENGINEER**
 
 **LEXROOM** è la startup che sta innovando il mondo degli studi legali e dei tribunali, con un'app che permette di fare ricerche legali alla velocità delal luce e non solo!
@@ -229,6 +188,7 @@ Junior Software Engineer, che lavorerà direttamente col CTO, su alcune delle sf
 
 🏆 **RICERCHE CHIUSE IN WELYK** 🏆
 
+- Recrowd: Project Manager
 - Redokun: frontend developer
 - Jointly: senior backend developer
 - SpacEarth Technology: solution architect
