@@ -175,7 +175,7 @@ Junior Software Engineer, che lavorerà direttamente col CTO, su alcune delle sf
 
 **COSA OFFRIAMO**
 
-- RAL da €30.000 a €35.000 in base alla tua esperienza
+- RAL da €35.000 a €40.000 in base alla tua esperienza
 - Contratto a tempo indeterminato CCNL Metalmeccanico
 - Pacchetto di stock options significativo 💰.
 - Lavoro ibrido 2 giorni a settimana in sede a Milano.
