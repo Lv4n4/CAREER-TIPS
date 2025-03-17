@@ -8,6 +8,68 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
+**AGILE LAB** CERCA: **DATA ENGINEER**
+
+https://www.agilelab.it/
+
+https://www.linkedin.com/company/agile-lab/
+
+**RAL:** € 47,5 - 60,5K
+
+**RESPONSABILITÀ**
+
+-Analizza, progetta e implementa sistemi complessi;
+-Mette in discussione i processi del team, cercando modi per migliorare;
+-Fa da mentore agli ingegneri junior tramite accoppiamento, progettazione e revisione del codice;
+-Costruisce soluzioni software aderendo ai nostri standard di qualità riguardo l'SDLC;
+-Fa sforzi attivi per rimanere aggiornato con le tecnologie;
+-Guida la progettazione tecnica di sistemi complessi;
+-Comprende e ottimizza le prestazioni del sistema;
+-Prende l'iniziativa di risolvere i problemi prima che diventino un problema;
+-Consegna sistemi complessi, ben realizzati e quasi privi di bug;
+-Identifica proattivamente problemi con i requisiti e il piano di progetto.
+
+**REQUISITI**
+
+-Laurea in Ingegneria Informatica o Informatica;
+-Esperienza precedente come Ingegnere dei Dati (3-5 anni);
+-Conoscenza approfondita di Hadoop, Spark e framework simili;
+-Conoscenza approfondita dei linguaggi di programmazione inclusi Java;
+-Esperto in tecnologie native del cloud, IaC e strumenti Docker;
+-Eccellenti capacità di gestione dei progetti;
+-Eccellenti capacità comunicative;
+-Proattività;
+-Comprensione commerciale e funzionale;
+-Spirito di squadra;
+-Capacità di risolvere problemi complessi di rete, dati e software;
+-Capacità di leadership.
+
+**SI OFFRE**
+
+-Lavoro completamente remoto o ibrido nei nostri uffici: Milano, Torino, Padova, Bologna, Catania e Rende;
+-Equilibrio reale tra vita lavorativa e privata;
+-Budget mensile per la formazione (tempo e denaro);
+-Un percorso di carriera strutturato con aspettative chiare e stipendio per ogni livello;
+-Supporto di un buddy nella prima settimana di lavoro;
+-Un coach come guida nella scelta delle esperienze più adatte alle tue ambizioni;
+-Benefit e programmi di welfare aziendale: premi aziendali e pacchetto di benvenuto con tutto l'equipaggiamento necessario per lavorare;
+-Esperienza Agile Nomads: opportunità di lavorare per 2 settimane all'estero;
+-Bonus di segnalazione, se porti persone talentuose come te;
+-L'opportunità di partecipare a una conferenza all'anno;
+-Un'azienda valutata 4,8 su 5 per la soddisfazione dei dipendenti su Glassdoor e certificata come Great Place to Work;
+-Ambiente inclusivo dove puoi essere veramente te stesso;
+-Ambiente stimolante orientato alla crescita, sia professionale che personale.
+
+**COME SI LAVORA**
+
+-Non piacciono le gerarchie: lavoriamo come una squadra;
+-Non piacciono le burocrazie, preferiamo il senso di responsabilità;
+-Piacciono i dati, certamente, quindi tutto ciò che è misurabile.
+
+
+---
+
+
 **RECROWD** CERCA: **FULL STACK DEVELOPER**
 
 https://www.recrowd.com
