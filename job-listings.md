@@ -112,47 +112,6 @@ FULL STACK DEVELOPER con esperienza in React.js, Next.js e Node.js
 ---
 
 
-**INTELLA** CERCA: **ML ENGINEER**
-
-https://www.intella.tech/
-
-https://www.linkedin.com/company/intellatech/
-
-**RUOLO**
-
-Come Ingegnere di Machine Learning, aiuterai a portare i modelli di machine learning del nostro team di data science in produzione, ottimizzandoli per scala ed efficienza. Sarai responsabile della performance e dell'affidabilità dei modelli in un ambiente di produzione, cercando continuamente nuove soluzioni e approcci per migliorare la nostra infrastruttura e le nostre pratiche. Con uno sguardo al futuro, avrai anche un ruolo chiave nell'espansione della nostra infrastruttura per accogliere più clienti e satelliti.
-
-**RESPONSABILITÀ**
-
-- Distribuire, monitorare e mantenere i modelli di machine learning in produzione, garantendone la performance e la scalabilità.
--	Collaborare con il team di data science per affinare e ottimizzare i modelli per gli ambienti di produzione.
--	Proporre proattivamente e implementare nuovi strumenti, migliori pratiche e approcci per potenziare la nostra infrastruttura di machine learning.
--	Gestire e scalare la nostra infrastruttura cloud per supportare un numero crescente di clienti e satelliti.
--	Mantenerti aggiornato sugli ultimi sviluppi in machine learning e AI, contribuendo a progetti open source e iniziative comunitarie.
-
-**REQUISITI RICHIESTI**
-
--	Solida esperienza in Python e familiarità con le reti neurali profonde e i metodi di machine learning classici.
--	Conoscenza delle librerie Python per la gestione dei dati, il machine learning e i sistemi di gestione dei database.
--	Esperienza comprovata nel distribuire e mantenere modelli di machine learning in ambienti di produzione con esempi di progetti e strumenti che hai sviluppato.
--	Esperienza con infrastrutture cloud e sistemi scalabili (esperienza con Kubernetes è un plus).
--	Passione per l'AI e il machine learning, con un impegno verso l'apprendimento continuo e il miglioramento.
--	Contributi a progetti open source e coinvolgimento nella comunità AI/ML sono molto apprezzati.
--	Eccellenti capacità di problem-solving, unitamente alla capacità di lavorare in modo indipendente e collaborativo in un ambiente remoto.
-
-**COSA OFFRIAMO**
-
-- Assunzione a tempo indeterminato CCNL METALMECCANICO
-- Lavoro completamente da remoto, con incontri periodici di team a Milano
-- Orari flessibili con meccanismo di valutazione OKR
-- RAL 50-60K
-- Computer e attrezzature aziendali
-- Ritiri aziendali e attività di team building
-
-
----
-
-
 **INTELLA** CERCA: **DATA SCIENTIST**
 
 https://www.intella.tech/
@@ -250,6 +209,7 @@ Junior Software Engineer, che lavorerà direttamente col CTO, su alcune delle sf
 
 🏆 **RICERCHE CHIUSE IN WELYK** 🏆
 
+- Intella: ML Engineer
 - Recrowd: Project Manager
 - Redokun: frontend developer
 - Jointly: senior backend developer
