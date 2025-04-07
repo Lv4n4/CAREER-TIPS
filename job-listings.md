@@ -1,5 +1,5 @@
 
-Offerte di Lavoro
+**Offerte di Lavoro**
 
 Benvenuta/o 🖖 nello spazio delle opportunità di lavoro attuali, per le quali in **Welyk** ci stiamo mettendo 🫀 🫁 🔥. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
 Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
@@ -8,63 +8,137 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
-**AGILE LAB** CERCA: **DATA ENGINEER**
+# 💼 Data Engineer IV – Full Remote / Hybrid (solo se preferisci lavoro in modalità ibrida)
 
 https://www.agilelab.it/
 
 https://www.linkedin.com/company/agile-lab/
 
-**RAL:** € 47,5 - 60,5K
 
-**RESPONSABILITÀ**
+---
 
-- Analizza, progetta e implementa sistemi complessi;
-- Mette in discussione i processi del team, cercando modi per migliorare;
-- Fa da mentore agli ingegneri junior tramite accoppiamento, progettazione e revisione del codice;
-- Costruisce soluzioni software aderendo ai nostri standard di qualità riguardo l'SDLC;
-- Fa sforzi attivi per rimanere aggiornato con le tecnologie;
-- Guida la progettazione tecnica di sistemi complessi;
-- Comprende e ottimizza le prestazioni del sistema;
-- Prende l'iniziativa di risolvere i problemi prima che diventino un problema;
-- Consegna sistemi complessi, ben realizzati e quasi privi di bug;
-- Identifica proattivamente problemi con i requisiti e il piano di progetto.
+**💰 RAL**  
+**€60.000 – €70.000** + **€4.000 bonus pack**
 
-**REQUISITI**
+---
 
-- Laurea in Ingegneria Informatica o Informatica;
-- Esperienza precedente come Ingegnere dei Dati (3-5 anni);
-- Conoscenza approfondita di Hadoop, Spark e framework simili;
-- Conoscenza approfondita dei linguaggi di programmazione inclusi Java;
-- Esperto in tecnologie native del cloud, IaC e strumenti Docker;
-- Eccellenti capacità di gestione dei progetti;
-- Eccellenti capacità comunicative;
-- Proattività;
-- Comprensione commerciale e funzionale;
-- Spirito di squadra;
-- Capacità di risolvere problemi complessi di rete, dati e software;
-- Capacità di leadership.
+**🧠 RESPONSABILITÀ**
 
-**SI OFFRE**
+- ✍️ Progettare e implementare sistemi complessi e performanti  
+- 🔁 Migliorare processi tecnici e organizzativi  
+- 🤝 Mentoring di profili junior (pairing, code/design review)  
+- 🧱 Guidare la progettazione tecnica  
+- 🔍 Anticipare e risolvere bug, colli di bottiglia, debito tecnico  
+- 📈 Ottimizzare performance di sistema  
+- 🧪 Proporre nuove tecnologie  
+- 🚀 Contribuire allo sviluppo degli altri membri del team  
+- 🧠 Comunicare con chiarezza, anche in forma scritta  
+- 💡 Essere punto di riferimento tecnico su specifiche aree
 
-- Lavoro completamente remoto o ibrido nei nostri uffici: Milano, Torino, Padova, Bologna, Catania e Rende;
-- Equilibrio reale tra vita lavorativa e privata;
-- Budget mensile per la formazione (tempo e denaro);
-- Un percorso di carriera strutturato con aspettative chiare e stipendio per ogni livello;
-- Supporto di un buddy nella prima settimana di lavoro;
-- Un coach come guida nella scelta delle esperienze più adatte alle tue ambizioni;
-- Benefit e programmi di welfare aziendale: premi aziendali e pacchetto di benvenuto con tutto l'equipaggiamento necessario per lavorare;
-- Esperienza Agile Nomads: opportunità di lavorare per 2 settimane all'estero;
-- Bonus di segnalazione, se porti persone talentuose come te;
-- L'opportunità di partecipare a una conferenza all'anno;
-- Un'azienda valutata 4,8 su 5 per la soddisfazione dei dipendenti su Glassdoor e certificata come Great Place to Work;
-- Ambiente inclusivo dove puoi essere veramente te stesso;
-- Ambiente stimolante orientato alla crescita, sia professionale che personale.
+---
 
-**COME SI LAVORA**
+**🛠️ REQUISITI**
 
-- Non piacciono le gerarchie: lavoriamo come una squadra;
-- Non piacciono le burocrazie, preferiamo il senso di responsabilità;
-- Piacciono i dati, certamente, quindi tutto ciò che è misurabile.
+- 🎓 Laurea in Ingegneria Informatica o Informatica  
+- 🧪 6+ anni di esperienza in ambito Data Engineering  
+- 💻 Hadoop, Spark, Java: must-have  
+- ☁️ Esperienza con cloud-native, Docker, IaC  
+- 🧬 Conoscenza base del Data Mesh  
+- 🧠 Leadership tecnica  
+- 📅 Project management e comunicazione al top  
+- 🤲 Spirito di squadra e voglia di migliorarsi sempre
+
+---
+
+**🙌 SI OFFRE**
+
+- 🏠 Full remote o ibrido (uffici: Milano, Torino, Padova, Bologna, Catania, Rende)  
+- ⏳ Vero equilibrio vita-lavoro  
+- 🎓 Budget mensile per formazione (tempo + soldi)  
+- 🎁 Welcome pack completo  
+- 🌍 Agile Nomads: 2 settimane/anno da remoto all’estero  
+- 💶 Bonus referral  
+- 🎤 1 conferenza l’anno a scelta  
+- 📈 Percorso di carriera trasparente con coach dedicato  
+- 💚 Azienda certificata Great Place to Work (4.8/5 su Glassdoor)  
+- 🌈 Ambiente inclusivo, senza maschere
+
+---
+
+**🤝 COME LAVORIAMO**
+
+- 🔄 Niente gerarchie, ma vera collaborazione  
+- 🗂️ No alla burocrazia, sì alla responsabilità  
+- 📊 Tutto è misurabile, anche l’impatto delle tue scelte  
+- 💬 Empatia, umiltà e crescita continua  
+- 🌱 Vogliamo cambiare in meglio il nostro settore, insieme
+
+---
+
+
+# 💼 Data Engineer III – Full Remote / Hybrid (solo se preferisci lavoro in modalità ibrida)
+
+https://www.agilelab.it/
+
+https://www.linkedin.com/company/agile-lab/
+
+
+
+**💰 RAL**  
+
+**€47.500 – €60.500**
+
+---
+
+**🧠 RESPONSABILITÀ**
+
+- ✍️ Progettare e implementare sistemi complessi  
+- 🔁 Proporre miglioramenti ai processi del team  
+- 🤝 Mentoring a profili junior (pairing, design review, code review)  
+- 📦 Costruire soluzioni seguendo standard di qualità sullo SDLC  
+- 📚 Aggiornarsi continuamente sulle nuove tecnologie  
+- 🧱 Supportare la progettazione tecnica di sistemi  
+- ⚙️ Ottimizzare performance di sistema  
+- 🚨 Anticipare e risolvere problemi prima che si manifestino  
+- ✅ Consegnare sistemi robusti e ben funzionanti  
+- 🔍 Individuare criticità nei requisiti o nel piano progetto
+
+
+**🛠️ REQUISITI**
+
+- 🎓 Laurea in Ingegneria Informatica o Informatica  
+- 🧪 3-5 anni di esperienza come Data Engineer  
+- 💻 Conoscenza approfondita di Hadoop, Spark  
+- ☕ Esperienza con Java  
+- 🐳 Docker, IaC e tecnologie cloud-native  
+- 📅 Ottime capacità di gestione progetto  
+- 💬 Ottime capacità comunicative  
+- 🧠 Proattività e problem solving avanzato  
+- 🔗 Spirito di squadra  
+- 🧩 Leadership tecnica su scala media
+
+
+**🙌 SI OFFRE**
+
+- 🏠 Full remote o ibrido (uffici: Milano, Torino, Padova, Bologna, Catania, Rende)  
+- 🧘 Vero equilibrio vita-lavoro  
+- 🎓 Budget mensile per formazione (tempo + soldi)  
+- 🎁 Welcome pack completo con tutta l’attrezzatura  
+- 🌍 Agile Nomads: 2 settimane/anno da remoto all’estero  
+- 💶 Bonus referral  
+- 🎤 1 conferenza l’anno  
+- 📈 Percorso di carriera chiaro e coach personalizzato  
+- 💚 Great Place to Work certificato (4.8/5 su Glassdoor)  
+- 🌈 Ambiente inclusivo dove puoi essere te stessə
+
+
+**🤝 COME LAVORIAMO**
+
+- 🔄 Niente gerarchie, solo collaborazione  
+- 🧭 Poca burocrazia, tanta responsabilità  
+- 📊 Amiamo ciò che è misurabile  
+- 💬 Empatia, umiltà e voglia di crescere  
+- 🧠 Vogliamo migliorare il nostro settore, insieme
 
 
 ---
