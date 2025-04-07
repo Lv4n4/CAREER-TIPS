@@ -14,13 +14,11 @@ https://www.agilelab.it/
 
 https://www.linkedin.com/company/agile-lab/
 
-
 ---
 
 **💰 RAL**  
 **€60.000 – €70.000** + **€4.000 bonus pack**
 
----
 
 **🧠 RESPONSABILITÀ**
 
@@ -35,7 +33,6 @@ https://www.linkedin.com/company/agile-lab/
 - 🧠 Comunicare con chiarezza, anche in forma scritta  
 - 💡 Essere punto di riferimento tecnico su specifiche aree
 
----
 
 **🛠️ REQUISITI**
 
@@ -48,7 +45,6 @@ https://www.linkedin.com/company/agile-lab/
 - 📅 Project management e comunicazione al top  
 - 🤲 Spirito di squadra e voglia di migliorarsi sempre
 
----
 
 **🙌 SI OFFRE**
 
@@ -63,7 +59,6 @@ https://www.linkedin.com/company/agile-lab/
 - 💚 Azienda certificata Great Place to Work (4.8/5 su Glassdoor)  
 - 🌈 Ambiente inclusivo, senza maschere
 
----
 
 **🤝 COME LAVORIAMO**
 
@@ -72,6 +67,7 @@ https://www.linkedin.com/company/agile-lab/
 - 📊 Tutto è misurabile, anche l’impatto delle tue scelte  
 - 💬 Empatia, umiltà e crescita continua  
 - 🌱 Vogliamo cambiare in meglio il nostro settore, insieme
+
 
 ---
 
@@ -82,13 +78,12 @@ https://www.agilelab.it/
 
 https://www.linkedin.com/company/agile-lab/
 
-
+---
 
 **💰 RAL**  
 
 **€47.500 – €60.500**
 
----
 
 **🧠 RESPONSABILITÀ**
 
