@@ -19,6 +19,7 @@ https://bit.ly/43sHgPy
 
 
 
+
 💰 **RAL E OFFERTA**
 
 	•	28.000 € – 38.000 €
@@ -59,7 +60,7 @@ https://bit.ly/43sHgPy
 	•	📚 Mentalità orientata alla crescita e all’innovazione
 
 
-🎁 ** SI OFFER**
+🎁 **SI OFFRE**
 
 	•	Tantissima formazione continua 🎓
  
@@ -70,7 +71,7 @@ https://bit.ly/43sHgPy
 	•	Opportunità di contribuire in modo attivo all’evoluzione del processo di selezione e onboarding
 
 
-🏡 ** COME LAVORIAMO**
+🏡 **COME LAVORIAMO**
 
 	•	Modalità ibrida: 3 giorni in sede a Parma 🏙 + 2 giorni da remoto 🏠
  
@@ -81,6 +82,8 @@ https://bit.ly/43sHgPy
 
 
 ---
+
+
 
 
 # 💼 Data Engineer IV – Full Remote / Hybrid (solo se preferisci lavoro in modalità ibrida)
