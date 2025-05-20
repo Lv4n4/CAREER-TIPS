@@ -8,14 +8,95 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
+
+🧠 Entra nel team di **Siena Imaging** come **Full Stack Developer (PHP, Laravel)**
+
+Siena Imaging sviluppa soluzioni software per la ricerca neurologica e la medicina. Se vuoi lavorare su progetti concreti con impatto reale su Alzheimer, sclerosi multipla e altre patologie, questo è il posto giusto per te.
+
+
+https://recruiting.welyk.tech/jobs/5947356-siena-imaging-full-stack-developer-php-laravel
+
+https://www.sienaimaging.it/
+
+https://www.linkedin.com/company/siena-imaging-srl/
+
+
+
+
+
+💰 **RAL E OFFERTA**
+
+	•	Fino a 40.000 €
+	•	Contratto di apprendistato (CCNL Commercio)
+	•	Bonus produzione annuali 🎯
+	•	Buoni pasto da 4 €/giorno 🍽
+	•	Piano formativo interno 📚
+
+
+
+🛠 **Responsabilità**
+
+	•	💻 Progettazione e sviluppo di applicazioni Laravel (v.11+)
+	•	🔧 Creazione, manutenzione e integrazione di API (REST / GraphQL)
+	•	🧪 Scrittura di codice chiaro, testabile e ben documentato
+	•	🗃 Gestione database MySQL tramite Eloquent ORM
+	•	🔄 Partecipazione a code review e definizione architetture software
+	•	🤝 Collaborazione in team multidisciplinari
+
+
+
+✅ **Requisiti**
+
+	•	🧑‍💻 3–4 anni di esperienza con PHP e Laravel
+	•	🎯 Padronanza del framework Laravel (routing, middleware, Eloquent, Blade)
+	•	💅 Ottima conoscenza HTML, CSS, Javascript
+	•	🎨 Familiarità con Tailwind CSS e SASS
+	•	🔁 Esperienza con Git (pull request, Git Flow)
+	•	🧠 Autonomia e rispetto degli standard qualitativi
+	•	🇬🇧 Inglese tecnico scritto
+
+
+
+💡 **Soft skills**
+
+	•	🗣 Comunicazione chiara e collaborativa
+	•	🤔 Problem solving e pensiero critico
+	•	🧩 Adattabilità e teamwork
+	•	🕵️‍♂️ Affidabilità e attenzione ai dettagli
+	•	🚀 Proattività e autonomia
+
+
+🌟 **Nice to have**
+
+	•	🐳 Docker, CI/CD, Laravel Octane
+	•	🔄 Esperienza base in DevOps e deploy automatizzati
+	•	🧱 Conoscenza di Vue.js o React
+
+
+
+🏡 **Come lavoriamo**
+
+	•	Modalità ibrida: con sede a Siena 🏙 
+	•	Team altamente specializzato in ambito medico e tech
+	•	Contesto innovativo, serio e con grande impatto sociale
+
+
+---
+
+
+
 💼  **RECRUITER - LAVORO IBRIDO c/o CAFFEINA**
 
 
 Se hai passione per il recruiting, ami la tecnologia, hai occhio per il talento e vuoi contribuire a costruire una cultura aziendale solida e stimolante, potresti essere la persona che stiamo cercando 💥
 
+
+
+https://recruiting.welyk.tech/jobs/5863882-recruiter-caffeina
+
 https://caffeina.com
 
-https://bit.ly/43sHgPy
+https://www.linkedin.com/company/caffeina-agency/posts/?feedView=all
 
 
 
@@ -92,6 +173,10 @@ https://bit.ly/43sHgPy
 
 # 💼 Data Engineer IV – Full Remote / Hybrid (solo se preferisci lavoro in modalità ibrida)
 
+
+
+https://recruiting.welyk.tech/jobs/5805132-data-engineer-iv-agile-lab
+
 https://www.agilelab.it/
 
 https://www.linkedin.com/company/agile-lab/
@@ -155,6 +240,10 @@ https://www.linkedin.com/company/agile-lab/
 
 
 # 💼 Data Engineer III – Full Remote / Hybrid (solo se preferisci lavoro in modalità ibrida)
+
+
+
+https://recruiting.welyk.tech/jobs/5805047-data-engineer-iii-agile-lab
 
 https://www.agilelab.it/
 
