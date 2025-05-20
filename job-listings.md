@@ -8,6 +8,64 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
+** 💼 RECRUITER - LAVORO IBRIDO**
+
+
+Se hai passione per il recruiting, ami la tecnologia, hai occhio per il talento e vuoi contribuire a costruire una cultura aziendale solida e stimolante, potresti essere la persona che stiamo cercando 💥
+
+https://caffeina.com
+
+https://bit.ly/43sHgPy
+
+
+
+💰 RAL
+	•	28.000 € – 38.000 €
+	•	CCNL Metalmeccanico Confapi
+	•	600 €/anno in welfare
+	•	Buoni pasto
+	•	Mac aziendale 💻
+
+⸻
+
+🛠 Responsabilità
+	•	✍️ Scrivere e pubblicare annunci che riflettano lo spirito di Caffeina
+	•	📅 Gestire l’intero hiring journey: screening, colloqui, test, onboarding
+	•	🌱 Costruire e nutrire talent pool tramite LinkedIn e community
+	•	🤝 Collaborare con team interni per un onboarding personalizzato
+	•	⚙️ Sperimentare nuovi strumenti tech e AI per migliorare il recruiting
+	•	🎤 Essere brand ambassador della cultura Caffeina
+	•	🧠 Supportare manager e leadership con dati e consulenza strategica
+
+⸻
+
+✅ Requisiti
+	•	🧑‍💼 2+ anni di esperienza nel recruiting, preferibile in ambito IT/advertising
+	•	🛠 Padronanza di ATS e tool avanzati di selezione
+	•	🌐 Attività su LinkedIn e community professionali
+	•	🇬🇧 Inglese fluente (scritto e parlato)
+	•	📚 Mentalità orientata alla crescita e all’innovazione
+
+⸻
+
+🎁 Si offre
+	•	Tantissima formazione continua 🎓
+	•	Cultura orientata all’innovazione e al benessere
+	•	Ambiente dinamico, creativo, con un forte impatto nel mondo digital
+	•	Opportunità di contribuire in modo attivo all’evoluzione del processo di selezione e onboarding
+
+⸻
+
+🏡 Come lavoriamo
+	•	Modalità ibrida: 3 giorni in sede a Parma 🏙 + 2 giorni da remoto 🏠
+	•	Colleghi appassionati e stimolanti, tra advertising, design, tech e AI
+	•	Valori chiari e visione condivisa: qui ogni Creator è al centro
+
+
+
+---
+
+
 # 💼 Data Engineer IV – Full Remote / Hybrid (solo se preferisci lavoro in modalità ibrida)
 
 https://www.agilelab.it/
