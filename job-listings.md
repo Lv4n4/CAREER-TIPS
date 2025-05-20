@@ -8,7 +8,7 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 ---
 
 
-💼 **RECRUITER - LAVORO IBRIDO c/o CAFFEINA**
+💼  **RECRUITER - LAVORO IBRIDO c/o CAFFEINA**
 
 
 Se hai passione per il recruiting, ami la tecnologia, hai occhio per il talento e vuoi contribuire a costruire una cultura aziendale solida e stimolante, potresti essere la persona che stiamo cercando 💥
