@@ -14,6 +14,8 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 Siena Imaging sviluppa soluzioni software per la ricerca neurologica e la medicina. Se vuoi lavorare su progetti concreti con impatto reale su Alzheimer, sclerosi multipla e altre patologie, questo è il posto giusto per te.
 
 
+
+
 https://recruiting.welyk.tech/jobs/5947356-siena-imaging-full-stack-developer-php-laravel
 
 https://www.sienaimaging.it/
