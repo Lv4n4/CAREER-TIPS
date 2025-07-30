@@ -77,12 +77,12 @@ https://www.glaut.com/
 
 
 
-# 🛠️ Senior Backend Engineer (Founding team)
+# 🛠️ Senior Backend Engineer a P.IVA (Founding team)
 
-## 💰 RAL e offerta
+## 💰 COMPENSO e offerta
 - **RAL indicativa**: 60.000 - 90.000 $ annui (in base a esperienza, competenze e luogo)  
 - **Equity significativa** come parte integrante del pacchetto  
-- Posizione **full remote** (preferenza per l’Italia per incontri periodici a Milano)  
+- Posizione **full remote** con incontri periodici a Milano)  
 
 ---
 
@@ -127,18 +127,6 @@ https://www.glaut.com/
 - Iterazione veloce, bilanciando innovazione e affidabilità mission-critical  
 
 ---
-
-## 📩 Come candidarsi
-Invia:
-- CV o profilo LinkedIn  
-- Breve nota sul perché ti riconosci in questo ruolo e il progetto di cui sei più orgoglios*  
-
-📧 **work@glaut.com**  
-📌 Oggetto email: `Senior Backend Eng - 2025 – [Tuo Nome]`
-
-
-
-
 
 
 
