@@ -2,7 +2,7 @@
 **Offerte di Lavoro**
 
 Benvenuta/o 🖖 nello spazio delle opportunità di lavoro attuali, per le quali in **Welyk** ci stiamo mettendo 🫀 🫁 🔥. Ogni opportunità include informazioni sul ruolo, la retribuzione, i requisiti richiesti.
-Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su come candidarti.
+Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV), se hai bisogno di altre info che non hai trovato qui o sulla job board di **Welyk** 💜
 
 
 ---
