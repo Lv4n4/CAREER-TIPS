@@ -66,6 +66,89 @@ https://caffeina.com/
 
 
 
+---
+
+
+
+**BACKEND ENGINEER** IN **GLAUT**
+
+https://www.glaut.com/
+
+
+
+
+# 🛠️ Senior Backend Engineer (Founding team)
+
+## 💰 RAL e offerta
+- **RAL indicativa**: 60.000 - 90.000 $ annui (in base a esperienza, competenze e luogo)  
+- **Equity significativa** come parte integrante del pacchetto  
+- Posizione **full remote** (preferenza per l’Italia per incontri periodici a Milano)  
+
+---
+
+## 🖥 Responsabilità
+- Progettare e implementare funzionalità avanzate per far crescere la piattaforma  
+- Mantenere e migliorare l’infrastruttura multimediale in tempo reale  
+- Collaborare con il cofondatore per progettare architetture scalabili e a bassa latenza  
+- Rilasciare regolarmente nuove feature migliorando l’esperienza utente  
+- Supportare la roadmap tecnica e influenzare scelte infrastrutturali e direzione prodotto  
+- Ottimizzare latenza, throughput e affidabilità del sistema  
+
+---
+
+## 🛠 Requisiti
+- Padronanza di **Python** e framework come FastAPI  
+- Esperienza in programmazione **concorrente e asincrona**  
+- Capacità di progettare **infrastrutture scalabili e tolleranti ai guasti**  
+- Conoscenza di **AWS**, pipeline CI/CD e monitoraggio in produzione  
+- Competenza nei **flussi multimediali in tempo reale** e gestione codec audio/video  
+- Mentalità **DevOps**, automazione dei processi di deploy e gestione infrastrutture  
+- Attitudine a bilanciare progettazione accurata e rapidità di delivery  
+
+### 🔑 Plus
+- Esperienza con **Azure**  
+- Uso di database non relazionali  
+- Conoscenza protocolli di streaming, **WebRTC** o networking a basso livello  
+- Forti capacità di debug e performance tuning in produzione  
+
+---
+
+## 🤝 Si offre
+- Ruolo chiave nel **founding team**  
+- Lavoro su tecnologie AI e media in tempo reale  
+- Progetto internazionale in rapida crescita  
+- Opportunità di contribuire direttamente alla visione tecnica e prodotto  
+
+---
+
+## 🚀 Come lavoriamo
+- Team distribuito full remote  
+- Incontri periodici dal vivo a Milano  
+- Iterazione veloce, bilanciando innovazione e affidabilità mission-critical  
+
+---
+
+## 📩 Come candidarsi
+Invia:
+- CV o profilo LinkedIn  
+- Breve nota sul perché ti riconosci in questo ruolo e il progetto di cui sei più orgoglios*  
+
+📧 **work@glaut.com**  
+📌 Oggetto email: `Senior Backend Eng - 2025 – [Tuo Nome]`
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 **OSCAR ZONE** ✌🏼
 
 🏆 **RICERCHE CHIUSE IN WELYK** 🏆
