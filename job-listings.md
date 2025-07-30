@@ -11,6 +11,9 @@ Contattami su LinkedIn 👉 (https://bit.ly/3LdgcuV) per maggiori dettagli su co
 
 https://caffeina.com/
 
+per candidarsi 👉 https://recruiting.welyk.tech/jobs/6180171-it-manager-caffeina
+
+
 
 # 👨‍💻 IT Manager
 
@@ -73,6 +76,8 @@ https://caffeina.com/
 **BACKEND ENGINEER** IN **GLAUT**
 
 https://www.glaut.com/
+
+per candidarsi 👉 https://recruiting.welyk.tech/jobs/6242579-back-end-engineer-glaut
 
 
 
